@@ -40,7 +40,7 @@ def check_ospath(path, keyword):
 def get_img_link(post):
         try:
                 img_link = post.url
-        # (若無法直接取得則需透過selenium手動取得)
+        # -----若無法直接取得則需透過selenium手動取得-----
         except KeyError: 
                 post_link = f"https://www.instagram.com/p/{post.shortcode}"
                 Chrome_driver.get(post_link)
@@ -57,7 +57,6 @@ def save_img(keyword, post, img_link):
         file = requests.get(img_link)
         with open(save_as, mode='wb') as f:
                 f.write(file.content)
-
 
 
 # -----設定Selenium登入IG-----
@@ -83,7 +82,7 @@ until = datetime.datetime(2021, 12, 14)
 
 searched_post = list()
 for keyword in keywords:     
-        # # -----設定好存檔路徑-----
+        # -----設定好存檔路徑-----
         # check_ospath(path, keyword)
 
         k = 0 #initiate k
