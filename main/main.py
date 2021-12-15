@@ -92,5 +92,5 @@ if __name__ == '__main__':
     lines = file_.readlines()
     for line in lines:
         s=line.split(',')
-        print (findPlaces_range(s[1],s[2],'500','restaurant',s[0])) # api參數 lat,lng,範圍,種類,檔名.json
+        print (findPlaces_range(s[1],s[2],'500','restaurant',s[0])) # api參數 lat,lng,範圍,種類,檔名.json test
     file_.close()
