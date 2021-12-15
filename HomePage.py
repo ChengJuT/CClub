@@ -11,8 +11,7 @@ import wx.html as html
 import wx.html2 as html2
 import wx.lib.agw.hyperlink as hl
 
-# Hiiiiaaaaaa
-# mdkmamdgiaoi;sd
+# Hiiii
 AREA = {
         "Taipei" : 0,
         "New Taiper City" : 1,
