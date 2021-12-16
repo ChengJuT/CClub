@@ -33,7 +33,7 @@ def findPlaces (findname): #名稱查經緯度 https://developers.google.com/map
 
 def findPlaces_range (lat,lng,radius,target,f_name): #經緯度查範圍 https://developers.google.com/maps/documentation/places/web-service/search-nearby
 
-    url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location="+lat+","+lng+"+&radius="+radius+"&type="+target+"&key="+mykey
+    url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?language=zh-TW&location="+lat+","+lng+"+&radius="+radius+"&type="+target+"&key="+mykey
     payload={}
     headers = {}
     mainarray = []
@@ -92,5 +92,5 @@ if __name__ == '__main__':
     lines = file_.readlines()
     for line in lines:
         s=line.split(',')
-        print (findPlaces_range(s[1],s[2],'500','restaurant',s[0])) # api參數 lat,lng,範圍,種類,檔名.json
+        print (findPlaces_range(s[1],s[2],'500','restaurant',s[0])) # api參數 lat,lng,範圍,種類,檔名.json test
     file_.close()
