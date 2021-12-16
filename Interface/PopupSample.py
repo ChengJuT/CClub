@@ -11,8 +11,6 @@ folium.Marker(
 '''
 
 
-
-delay=5
 icon_img = './icon.png'
 custom_icon = folium.CustomIcon(icon_img, icon_size=(35, 35), popup_anchor=(0, -22))
 
@@ -34,6 +32,8 @@ pub_html = folium.Html(f"""
                        <p style="text-align: center;">
                        <iframe src={insta_post}embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">
                        </iframe>
+                       <iframe src={insta_post}embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">
+                       </iframe>
                        <p style="text-align: center;">
                            <a href={website} target="_blank" title="{name} Website">
                                <span style="font-family: Didot, serif; font-size: 14px;">
@@ -50,7 +50,7 @@ pub_html = folium.Html(f"""
                        </p>
 """, script=True)
 
-popup = folium.Popup(pub_html, max_width=220)
+popup = folium.Popup(pub_html, max_width=500)
 
 custom_marker = folium.Marker(location= [45.3288, -122.6625], icon=custom_icon, popup=popup)
 
