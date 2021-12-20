@@ -8,8 +8,6 @@ Created on Thu Dec  9 18:37:49 2021
 
 import wx
 import wx.html as html
-import wx.html2 as html2
-import wx.lib.agw.hyperlink as hl
 
 # Hiiii
 AREA = {
@@ -17,8 +15,22 @@ AREA = {
         "New Taiper City" : 1,
         "Other" : 2,
         "AAAA" : 3,
-        "MASJFI" : 4
+        "MASJFI" : 4,
+        "c" : 5,
+        "d" : 6
         }
+
+MAPS = {
+        0 : "./map.html",
+        1 : "./map.html",
+        2 : "./map.html",
+        3 : "./map.html",
+        4 : "./map.html",
+        5 : "./map.html",
+        6 : "./map.html",
+        } 
+
+windowSize = (400,300)
 
 
 class HomepagePanel(wx.Panel):
@@ -30,21 +42,47 @@ class HomepagePanel(wx.Panel):
     def __init__(self, parent):
         super().__init__(parent)
         self.parent = parent
+        
         # The vbox of the panel
         self.panel_box = wx.BoxSizer(wx.VERTICAL)
-        # Text 
-        self.text = wx.StaticText(self, label = "Choose pls")
-        self.panel_box.Add(self.text)
+        # Title text 
+        imgSize= (120,120)
+        img = wx.Image("./title.png").Scale(imgSize[0], imgSize[1])
+        self.titleBG = wx.StaticBitmap(self, -1, img.ConvertToBitmap(), pos = (windowSize[0]/2-imgSize[0]/2,-20))
+        self.text = wx.StaticText(self, label = "Choose pls", style = wx.CENTER )
+        self.text.SetForegroundColour(wx.Colour(255,255,255))
+        self.panel_box.Add(self.text, 1, wx.ALIGN_CENTER_HOＲIZONTAL|wx.ALL, imgSize[1]/3 - 3)
+      
+
+        
+        
+        
+        nButts = 0;
+        nButtsPerRow = 3;
         # Button container
         self.areaButt_box = wx.BoxSizer(wx.HORIZONTAL)
-        self.panel_box.Add(self.areaButt_box, 1,  wx.EXPAND, 1)
+        self.panel_box.Add(self.areaButt_box, 1, flag = wx.EXPAND, border = 0)
         ## Buttons
         self.area_butts = [] # List of area buttons
+        
+        
         for area_name, area_id in zip(AREA.keys(), AREA.values()):
-            self.area_butts.append(wx.Button(self, label = area_name))
-            self.area_butts[area_id].Bind(wx.EVT_BUTTON, self.SelectArea)
-            self.areaButt_box.Add(self.area_butts[area_id], 1,  wx.EXPAND, 1)
-                    
+            if(nButts == nButtsPerRow):
+                self.areaButt_box = wx.BoxSizer(wx.HORIZONTAL)
+                self.panel_box.Add(self.areaButt_box, 1, flag = wx.EXPAND|wx.BOTTOM, border = 10)
+                nButts = 0
+            butt = wx.Button(self, label = area_name, size = (self.GetSize()[0]//3, 10 ))
+            self.area_butts.append(butt)
+            butt.Bind(wx.EVT_BUTTON, self.SelectArea)
+            
+            self.areaButt_box.Add(butt, 1, flag = wx.EXPAND|wx.ALL, border = 5)
+            nButts += 1
+        if(nButts < nButtsPerRow):
+            for i in range(nButtsPerRow - nButts):
+                butt = wx.Button(self, label = "", size = (self.GetSize()[0]//3, 10 ))
+                self.areaButt_box.Add(butt, 1, flag = wx.EXPAND|wx.ALL, border = 5)
+                butt.Disable()
+            
         
         self.SetSizer(self.panel_box)
         self.Show()
@@ -52,77 +90,45 @@ class HomepagePanel(wx.Panel):
         
     def SelectArea(self, event):
         butt = event.GetEventObject()
-        self.Hide()
-        self.parent.SelectArea(butt.Label)
+        HTML_frame(butt.Label, MAPS[AREA[butt.Label]])
         
-class AreaDetailPanel(wx.Panel):
-    def __init__(self, parent):
-        super().__init__(parent)
-        self.parent = parent
-        # Sizer
+class HTML_frame(wx.Frame):
+    def __init__(self, title, webPage):
+        super().__init__(None)
+        self.SetTitle(title)
+        
         self.panel_box = wx.BoxSizer(wx.VERTICAL)
-        # Title text
-        self.text = wx.StaticText(self, label = "area name")
-        self.panel_box.Add(self.text)
-        # Exit button
-        self.exit_butt = wx.Button(self, label = "Back")
-        self.exit_butt.Bind( wx.EVT_BUTTON, self.OnClick_exit_butt)
-        self.panel_box.Add(self.exit_butt)
         
-        '''
-        # Map image
-        imgPath = "./map.png"
-        img = wx.Image(imgPath, wx.BITMAP_TYPE_ANY).ConvertToBitmap()
-        self.map = wx.StaticBitmap(self, bitmap = img, size = (img.GetWidth()/1000, img.GetHeight()/1000))
-        self.panel_box.Add(self.map)
-        # Buttons on map
-        self.map_butt =  wx.Button(self, label = "Test")
-        self.map_butt.Bind( wx.EVT_BUTTON, self.SelectLocation)
-        self.map_butt.Position = 50, 170
-        #'''
-        
-        #'''
         txt_style = wx.VSCROLL|wx.HSCROLL|wx.TE_READONLY|wx.BORDER_SIMPLE
         self.htmlViewer = html.HtmlWindow(self, -1, size=(300, 150), style=txt_style)
-        self.htmlViewer.LoadPage("./map.html")
+        self.htmlViewer.LoadPage(webPage)
         self.panel_box.Add(self.htmlViewer,1, wx.EXPAND, 1)
-        #'''
         
-        '''
-        self.browser = wx.html2.WebView.New(self)
-        self.panel_box.Add(self.browser, 1, wx.EXPAND, 10)
-        self.browser.LoadURL("http://www.google.com") 
-        #'''
-        
-        self.SetSizer(self.panel_box)
         self.Show()
-        self.Hide()
-        
-    def SelectLocation(self,event):
-        butt = event.GetEventObject()
-        butt.Position = (butt.Position[0] + 5, butt.Position[1])
-        self.browser.Show()
-        
-    def Open(self, areaName):
-        self.text.Label = areaName
-        self.Show()
-    
-    def OnClick_exit_butt(self, event):
-        self.Hide()
-        self.parent.ReturnHome()
-        
+        self.Layout()
+        self.Refresh()
         
 
 class Main_frame(wx.Frame):
     def __init__(self):
-        super().__init__(None)
+        super().__init__(None, size = windowSize ,style = wx.DEFAULT_FRAME_STYLE & ~(wx.RESIZE_BORDER | wx.MAXIMIZE_BOX))
+        self.SetBackgroundColour(wx.Colour(219, 80, 74))
+        
+        #background
+        '''
+        scale = 0.4
+        bgSize = (1680 * scale,1120*scale)
+        img = wx.Image("./bg.jpeg").Scale(bgSize[0],bgSize[1]).ConvertToBitmap()
+        self.bg = wx.StaticBitmap(self, -1, img, (0, -170))
+        '''
+        scale = 0.6
+        bgSize = (800 * scale,533*scale)
+        img = wx.Image("./bg2.jpeg").Scale(bgSize[0],bgSize[1]).ConvertToBitmap()
+        self.bg = wx.StaticBitmap(self, -1, img, (-70, 0))
 
         vbox = wx.BoxSizer(wx.VERTICAL)
         self.homepage_panel = HomepagePanel(self)
-        self.areaDetail_panel = AreaDetailPanel(self)
-        
-        vbox.Add(self.homepage_panel)
-        vbox.Add(self.areaDetail_panel)
+        vbox.Add(self.homepage_panel, 0, flag = wx.EXPAND, border = 0)
         self.SetSizer(vbox)
         self.Show()
         self.homepage_panel.Show()

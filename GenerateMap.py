@@ -21,9 +21,9 @@ fn='map.html'
 tmpurl='file://{path}/{mapfile}'.format(path=os.getcwd(),mapfile=fn)
 m.save(fn)
 
-browser = webdriver.Chrome()
-browser.get(tmpurl)
-#Give the map tiles some time to load
-time.sleep(delay)
-browser.save_screenshot('map.png')
-browser.quit()
+# browser = webdriver.Chrome()
+# browser.get(tmpurl)
+# #Give the map tiles some time to load
+# time.sleep(delay)
+# browser.save_screenshot('map.png')
+# browser.quit()
