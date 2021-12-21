@@ -36,7 +36,7 @@ MAPS2 = {
         1 : "https://www.google.com/",
         2 : "file:///Users/LiamTsai/Documents/Github/CClub/CClub/Interface/map.html",
         3 : "file:///Users/LiamTsai/Documents/Github/CClub/CClub/Interface/map.html",
-        4 : "file:///Users/LiamTsai/Documents/Github/CClub/CClub/Interface/map.html",
+        4 : "https://www.youtube.com/watch?v=3AvnZ_Wt47s",
         5 : "file:///Users/LiamTsai/Documents/Github/CClub/CClub/Interface/map.html",
         6 : "file:///Users/LiamTsai/Documents/Github/CClub/CClub/Interface/map.html",
         } 
