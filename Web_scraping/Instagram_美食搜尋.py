@@ -1,8 +1,3 @@
-# -----目前已知錯誤訊息-----
-'''instaloader.exceptions.ConnectionException: Login error: "fail" status, message "feedback_required": 代表爬蟲次數太頻繁被禁了，需等待一定時間後再登入.'''
-'''JSON Query to explore/locations/199494240937537/: HTTP error code 500. [retrying; skip with ^C]: 可能是爬蟲次數太頻繁導致伺服器暫時無回應 instaloader會等待一段時間後自動繼續 不需按任何按鍵'''
-'''KeyError: 'edge_hashtag_to_top_posts: 和下面的400 Bad Request一起出現 目前無解'''
-'''instaloader.exceptions.QueryReturnedBadRequestException: 400 Bad Request 帳號被blocked 目前無解'''
 # 程式中有#######################的部分爬蟲過程會印在cmd裡面幫助了解爬到的資料情況 若不想顯示可以comment掉
 
 from selenium import webdriver
@@ -39,12 +34,12 @@ def record_data(data, food, post_link):
 def search_post(Foods, data):
         for food in Foods:
                 # -----根據店家名稱搜尋貼文-----
-                food["name"] = re.sub(r'[^\w]', "", food["name"].replace(" ", ""))
+                name = re.sub(r'[^\w]', "", food["name"].replace(" ", ""))
                 ################################
-                print(food["name"])
+                print(name)
                 ################################
                 search = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, '//*[@id="react-root"]/section/nav/div[2]/div/div/div[2]/input')))
-                search.send_keys(food["name"])
+                search.send_keys(name)
                 time.sleep(1)
                 try:
                         # -----找到搜尋結果並點入-----
@@ -63,6 +58,7 @@ def search_post(Foods, data):
                                 data = record_data(data, food, post_link)
                                 time.sleep(5)
                         except TimeoutException:
+                                # -----有時候瀏覽器會遇到HTTP 500無回應 須等5分鐘重新整理-----
                                 time.sleep(300) #等待5分鐘再進行
                                 driver.refresh() #重新整理
                                 try:
@@ -77,7 +73,7 @@ def search_post(Foods, data):
                                         print("No posts.")
                                         continue
                 except TimeoutException:
-                        print(f"Posts with {food['name']} not found.")
+                        print(f"Posts with {name} not found.")
                         search.clear()
                         time.sleep(1)
                         continue
