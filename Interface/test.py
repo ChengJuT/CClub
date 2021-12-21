@@ -1,3 +1,4 @@
+
 import wx 
 import wx.html2 
 
@@ -14,6 +15,8 @@ if __name__ == '__main__':
   app = wx.App() 
   dialog = MyBrowser(None, -1) 
   #dialog.browser.LoadURL("http://www.google.com") 
-  dialog.browser.LoadURL("file:///Users/LiamTsai/Documents/HW/python/map.html")
+  dialog.browser.LoadURL("file:///Users/LiamTsai/Documents/Github/CClub/CClub/Interface/map.html")
   dialog.Show() 
   app.MainLoop()
+  
+  
