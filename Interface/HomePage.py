@@ -21,17 +21,8 @@ AREA = {
         "d" : 6
         }
 
-MAPS = {
-        0 : "./map.html",
-        1 : "./map.html",
-        2 : "./map.html",
-        3 : "./map.html",
-        4 : "./map.html",
-        5 : "./map.html",
-        6 : "./map.html",
-        } 
 
-MAPS2 = {
+MAPS = {
         0 : "file:///Users/LiamTsai/Documents/Github/CClub/CClub/Interface/map.html",
         1 : "https://www.google.com/",
         2 : "file:///Users/LiamTsai/Documents/Github/CClub/CClub/Interface/map.html",
@@ -101,10 +92,10 @@ class HomepagePanel(wx.Panel):
         
     def SelectArea(self, event):
         butt = event.GetEventObject()
-        self.dialog.browser.LoadURL(MAPS2[AREA[butt.Label]])
+        self.dialog.browser.LoadURL(MAPS[AREA[butt.Label]])
         self.dialog.title = butt.Label
         self.dialog.Show();
-        
+'''
 class HTML_frame(wx.Frame):
     def __init__(self, title, webPage):
         super().__init__(None)
@@ -120,7 +111,7 @@ class HTML_frame(wx.Frame):
         self.Show()
         self.Layout()
         self.Refresh()
-  
+ '''
 class HTML_frame2(wx.Dialog): 
   def __init__(self, *args, **kwds): 
     wx.Dialog.__init__(self, *args, **kwds) 
