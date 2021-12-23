@@ -1,0 +1,233 @@
+[
+    {
+        "name": "燒肉同話 台中麗寶店",
+        "rating": 4.3,
+        "vicinity": "后里區福容路201號1樓",
+        "user_ratings_total": 2027,
+        "location": {
+            "lat": 24.324537,
+            "lng": 120.700018
+        },
+        "place_id": "ChIJyyjNqxwQaTQRShTvl3Xmjpw"
+    },
+    {
+        "name": "瓦城泰國料理 - 台中麗寶店",
+        "rating": 4.2,
+        "vicinity": "后里區福容路201號",
+        "user_ratings_total": 673,
+        "location": {
+            "lat": 24.325124,
+            "lng": 120.701038
+        },
+        "place_id": "ChIJJfScaxsQaTQRcj4IGLuT7rQ"
+    },
+    {
+        "name": "麗寶Outlet Mall",
+        "rating": 4.1,
+        "vicinity": "后里區福容路201號",
+        "user_ratings_total": 20534,
+        "location": {
+            "lat": 24.3245903,
+            "lng": 120.6993847
+        },
+        "place_id": "ChIJtQNcXBsQaTQRSvC-i_YiNJk"
+    },
+    {
+        "name": "這一小鍋 台中麗寶店",
+        "rating": 4.4,
+        "vicinity": "后里區福容路201號1樓",
+        "user_ratings_total": 2565,
+        "location": {
+            "lat": 24.324333,
+            "lng": 120.699834
+        },
+        "place_id": "ChIJee5KqBwQaTQRKiXqgsCG5Xw"
+    },
+    {
+        "name": "飛機河粉 台中麗寶店",
+        "rating": 4.2,
+        "vicinity": "后里區福容路201號B區3樓",
+        "user_ratings_total": 19,
+        "location": {
+            "lat": 24.3242977,
+            "lng": 120.6991781
+        },
+        "place_id": "ChIJJw4lla8RaTQR19nT-FqYU_w"
+    },
+    {
+        "name": "Day By Day85C 台中麗寶店/台中美食/舒芙蕾/韓式厚煎吐司/生吐司/台中甜點/台中小吃/台中必吃/千層蛋糕/網美必去",
+        "rating": 5,
+        "vicinity": "后里區福容路201號D區2樓",
+        "user_ratings_total": 5,
+        "location": {
+            "lat": 24.3242977,
+            "lng": 120.6991781
+        },
+        "place_id": "ChIJVxAlkgsRaTQRvBrnZdj1F80"
+    },
+    {
+        "name": "星野肉肉鍋PLUS-台中麗寶OUTLET店",
+        "rating": 4.3,
+        "vicinity": "后里區福容路201號二期C區2F",
+        "user_ratings_total": 1204,
+        "location": {
+            "lat": 24.3242977,
+            "lng": 120.6991781
+        },
+        "place_id": "ChIJzw2O0ewRaTQRV_I7r8nFHJk"
+    },
+    {
+        "name": "韓姜熙의小廚房 台中麗寶店",
+        "rating": 4.2,
+        "vicinity": "后里區福容路201號3樓",
+        "user_ratings_total": 264,
+        "location": {
+            "lat": 24.3242977,
+            "lng": 120.6991781
+        },
+        "place_id": "ChIJFd3gbmQRaTQRgiB4hEHoc5Q"
+    },
+    {
+        "name": "丸亀製麵 台中麗寶店 烏龍麵餐廳",
+        "rating": 4.6,
+        "vicinity": "后里區福容路201號3F",
+        "user_ratings_total": 505,
+        "location": {
+            "lat": 24.3242977,
+            "lng": 120.6991781
+        },
+        "place_id": "ChIJ8YCarRwQaTQRMqfJxWccAe0"
+    },
+    {
+        "name": "涓豆腐 台中麗寶店",
+        "rating": 4.1,
+        "vicinity": "后里區福容路201號1樓",
+        "user_ratings_total": 500,
+        "location": {
+            "lat": 24.3252575,
+            "lng": 120.7005913
+        },
+        "place_id": "ChIJt40kjEURaTQRtSgYMREiQMo"
+    },
+    {
+        "name": "大心新泰式麵食 - 台中麗寶店",
+        "rating": 4.1,
+        "vicinity": "后里區福容路201號3F",
+        "user_ratings_total": 312,
+        "location": {
+            "lat": 24.324899,
+            "lng": 120.70078
+        },
+        "place_id": "ChIJJ_ScaxsQaTQRwnYAGP8_7Dg"
+    },
+    {
+        "name": "拉麵次郎長（麗寶總店）",
+        "rating": 4.5,
+        "vicinity": "后里區福容路201號美食街 3110B棟 3樓",
+        "user_ratings_total": 2087,
+        "location": {
+            "lat": 24.3252108,
+            "lng": 120.7008051
+        },
+        "place_id": "ChIJje5R5Gg9aTQRw_xF8axw-LY"
+    },
+    {
+        "name": "Day By Day台中麗寶店/麗寶outlet Mall美食/后里美食/舒芙蕾/韓式厚煎吐司/台中甜點/彌月蛋糕/千層蛋糕/網美咖啡廳",
+        "rating": 4.6,
+        "vicinity": "后里區福容路201號D區二樓",
+        "user_ratings_total": 278,
+        "location": {
+            "lat": 24.3264136,
+            "lng": 120.7019903
+        },
+        "place_id": "ChIJrVq70zARaTQRecbZ0CZAP5I"
+    },
+    {
+        "name": "麗寶福容大飯店 順園日式料理",
+        "rating": 4.8,
+        "vicinity": "后里區福容路87號",
+        "user_ratings_total": 38,
+        "location": {
+            "lat": 24.3238843,
+            "lng": 120.6968897
+        },
+        "place_id": "ChIJN9aMOYoRaTQRHXlk-E1380g"
+    },
+    {
+        "name": "港點大師 台中麗寶店 天然無添加｜大閘蟹｜小龍蝦",
+        "rating": 4.1,
+        "vicinity": "后里區福容路201號台中麗寶Outlet Mall二期C棟2樓",
+        "user_ratings_total": 507,
+        "location": {
+            "lat": 24.3266158,
+            "lng": 120.7024684
+        },
+        "place_id": "ChIJsyCUkUURaTQRfZqoH8Oa82g"
+    },
+    {
+        "name": "麗寶福容大飯店 福粵樓",
+        "rating": 4.2,
+        "vicinity": "后里區福容路88 號",
+        "user_ratings_total": 515,
+        "location": {
+            "lat": 24.32364669999999,
+            "lng": 120.6965099
+        },
+        "place_id": "ChIJtxJguBsQaTQRC1m_EbiXkoc"
+    },
+    {
+        "name": "亮宅Brunch",
+        "rating": 4.1,
+        "vicinity": "后里區安眉路133號",
+        "user_ratings_total": 282,
+        "location": {
+            "lat": 24.3217221,
+            "lng": 120.7012426
+        },
+        "place_id": "ChIJVYkMgVIRaTQRsUS-Jxyh64c"
+    },
+    {
+        "name": "Mövenpick Café- 莫凡彼台中麗寶店",
+        "rating": 4.3,
+        "vicinity": "后里區福容路201號二期C區2樓",
+        "user_ratings_total": 581,
+        "location": {
+            "lat": 24.3267639,
+            "lng": 120.7028309
+        },
+        "place_id": "ChIJfQoRIvMRaTQRQUBVvZbgKtQ"
+    },
+    {
+        "name": "麗寶福容大飯店 田園咖啡廳",
+        "rating": 4.5,
+        "vicinity": "后里區福容路88號1樓",
+        "user_ratings_total": 6,
+        "location": {
+            "lat": 24.3234903,
+            "lng": 120.6961183
+        },
+        "place_id": "ChIJO2PUyicRaTQRQNbsV9jFe4k"
+    },
+    {
+        "name": "新這一鍋 台中麗寶殿",
+        "rating": 4.7,
+        "vicinity": "后里區福容路201號二期C區1樓",
+        "user_ratings_total": 573,
+        "location": {
+            "lat": 24.3270701,
+            "lng": 120.7030568
+        },
+        "place_id": "ChIJDTY4LyERaTQRGd1uEb8VRN0"
+    },
+    {
+        "name": "享義麵138義大利麵（外帶專賣）",
+        "rating": 5,
+        "vicinity": "后里區安眉路138號",
+        "user_ratings_total": 46,
+        "location": {
+            "lat": 24.320822,
+            "lng": 120.6996557
+        },
+        "place_id": "ChIJf5r82-cRaTQRMMqjDVGbIiU"
+    }
+]

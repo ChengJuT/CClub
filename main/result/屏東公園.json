@@ -1,0 +1,420 @@
+[
+    {
+        "name": "石頭日式燒肉",
+        "rating": 4.3,
+        "vicinity": "屏東市公園路38號",
+        "user_ratings_total": 1966,
+        "location": {
+            "lat": 22.6748409,
+            "lng": 120.4889984
+        },
+        "place_id": "ChIJC0DPoJoXbjQRGk24KR80Xvs"
+    },
+    {
+        "name": "Amigos 早午餐",
+        "rating": 4.1,
+        "vicinity": "屏東市濟南街14號",
+        "user_ratings_total": 355,
+        "location": {
+            "lat": 22.6773943,
+            "lng": 120.4897037
+        },
+        "place_id": "ChIJVb1tR5oXbjQRkrts0lQ0LdE"
+    },
+    {
+        "name": "屏東文德食品-德師傅",
+        "rating": 4.2,
+        "vicinity": "屏東市杭州街5-1號",
+        "user_ratings_total": 93,
+        "location": {
+            "lat": 22.6725641,
+            "lng": 120.4909468
+        },
+        "place_id": "ChIJzxlsmXYXbjQRqfJPS1Ra2Ho"
+    },
+    {
+        "name": "一碗豆腐",
+        "rating": 4.2,
+        "vicinity": "屏東市濟南街2-6號",
+        "user_ratings_total": 1361,
+        "location": {
+            "lat": 22.6767317,
+            "lng": 120.4923388
+        },
+        "place_id": "ChIJyQCybJoXbjQRWXnM4F9kg5E"
+    },
+    {
+        "name": "帝亞布勒Kitchen & BAR派對餐館",
+        "rating": 4.1,
+        "vicinity": "屏東市中華路80號洋百貨二館三樓",
+        "user_ratings_total": 127,
+        "location": {
+            "lat": 22.6740738,
+            "lng": 120.4906772
+        },
+        "place_id": "ChIJm8RZoJsXbjQRvgoRoyqX0yM"
+    },
+    {
+        "name": "聚北海道鍋物 屏東環球店",
+        "rating": 4.8,
+        "vicinity": "90號環球 購物中心5F, 仁爱路, 屏东",
+        "user_ratings_total": 4990,
+        "location": {
+            "lat": 22.6732667,
+            "lng": 120.4934017
+        },
+        "place_id": "ChIJpRIuCJAXbjQRCvL2vOJRBbo"
+    },
+    {
+        "name": "心之田自然蔬食坊",
+        "rating": 4.2,
+        "vicinity": "屏東市忠孝路155之6號2F",
+        "user_ratings_total": 203,
+        "location": {
+            "lat": 22.6764132,
+            "lng": 120.4873579
+        },
+        "place_id": "ChIJ8YgZfpwXbjQRXo43guY03wk"
+    },
+    {
+        "name": "陶板屋 屏東太平洋店",
+        "rating": 4.2,
+        "vicinity": "太平洋4F, No. 80號, 中華路, 屏東市",
+        "user_ratings_total": 924,
+        "location": {
+            "lat": 22.6740838,
+            "lng": 120.490642
+        },
+        "place_id": "ChIJazCFH5sXbjQRSCwvS2zEFaw"
+    },
+    {
+        "name": "爭鮮迴轉壽司 屏東店",
+        "rating": 4.1,
+        "vicinity": "屏東市復興北路1號2F",
+        "user_ratings_total": 790,
+        "location": {
+            "lat": 22.6713326,
+            "lng": 120.4889171
+        },
+        "place_id": "ChIJC2tljYQXbjQRs_TLue_tEkA"
+    },
+    {
+        "name": "國泰萬巒豬腳大王",
+        "rating": 4.6,
+        "vicinity": "屏東市青島街27-1號",
+        "user_ratings_total": 72,
+        "location": {
+            "lat": 22.6778382,
+            "lng": 120.4909259
+        },
+        "place_id": "ChIJrchyLpoXbjQRr2xpcNlGQ7k"
+    },
+    {
+        "name": "甲子園之館",
+        "rating": 4.1,
+        "vicinity": "屏東市信義路151之4號",
+        "user_ratings_total": 111,
+        "location": {
+            "lat": 22.6778267,
+            "lng": 120.4887668
+        },
+        "place_id": "ChIJtYZ2G5kXbjQR2Me7UywxUus"
+    },
+    {
+        "name": "萬巒豬腳大王",
+        "rating": 4.4,
+        "vicinity": "屏東市中華路72-2號",
+        "user_ratings_total": 236,
+        "location": {
+            "lat": 22.6736244,
+            "lng": 120.4905052
+        },
+        "place_id": "ChIJZV9HKpsXbjQRJI0dQQ2K5U8"
+    },
+    {
+        "name": "韓家刀削麵",
+        "rating": 4.2,
+        "vicinity": "屏東市林森路121-2號",
+        "user_ratings_total": 229,
+        "location": {
+            "lat": 22.6734066,
+            "lng": 120.4901021
+        },
+        "place_id": "ChIJtV-P1ZoXbjQRfgt4LYjrX5Y"
+    },
+    {
+        "name": "小吉廚坊",
+        "rating": 4.4,
+        "vicinity": "屏東市天津街3-2號",
+        "user_ratings_total": 159,
+        "location": {
+            "lat": 22.6762832,
+            "lng": 120.4891621
+        },
+        "place_id": "ChIJkWKeoZsXbjQR1wcG4ASKaEc"
+    },
+    {
+        "name": "爹說 你好",
+        "rating": 4.1,
+        "vicinity": "屏東市濟南街12-6號",
+        "user_ratings_total": 233,
+        "location": {
+            "lat": 22.6773308,
+            "lng": 120.4900404
+        },
+        "place_id": "ChIJA_IyyJsXbjQRN2meuhBXBdE"
+    },
+    {
+        "name": "小蒙牛頂級麻辣養生鍋hotpot-屏東店",
+        "rating": 4.3,
+        "vicinity": "屏東市公園路15號",
+        "user_ratings_total": 1202,
+        "location": {
+            "lat": 22.6730895,
+            "lng": 120.4944349
+        },
+        "place_id": "ChIJNebZFpAXbjQRagi52_GLhn0"
+    },
+    {
+        "name": "燒肉魂",
+        "rating": 4.6,
+        "vicinity": "屏東市復興北路34號",
+        "user_ratings_total": 482,
+        "location": {
+            "lat": 22.672292,
+            "lng": 120.488522
+        },
+        "place_id": "ChIJz52rvYQXbjQRaB835xi4ukM"
+    },
+    {
+        "name": "秀羽素食館",
+        "rating": 4.3,
+        "vicinity": "屏東市仁愛路42號",
+        "user_ratings_total": 239,
+        "location": {
+            "lat": 22.6708068,
+            "lng": 120.4924499
+        },
+        "place_id": "ChIJOzLmboUXbjQRjdy1YbvnrY8"
+    },
+    {
+        "name": "福井壽司",
+        "rating": 4.3,
+        "vicinity": "屏東市仁愛路78號",
+        "user_ratings_total": 4,
+        "location": {
+            "lat": 22.67239279999999,
+            "lng": 120.492947
+        },
+        "place_id": "ChIJke129YYXbjQRcUvgwF0CAAk"
+    },
+    {
+        "name": "發財車旗魚黑輪",
+        "rating": 4.4,
+        "vicinity": "屏東市福建路78號",
+        "user_ratings_total": 279,
+        "location": {
+            "lat": 22.672303,
+            "lng": 120.4912026
+        },
+        "place_id": "ChIJuTxtJYUXbjQR-rpYpMN7rOw"
+    },
+    {
+        "name": "春水堂 環球屏東店",
+        "rating": 4.1,
+        "vicinity": "屏東市仁愛路90號5樓",
+        "user_ratings_total": 174,
+        "location": {
+            "lat": 22.6732667,
+            "lng": 120.4934017
+        },
+        "place_id": "ChIJ9bLgEpYEbjQRIV1GlK_NvWI"
+    },
+    {
+        "name": "A-Chi美式廚房",
+        "rating": 4.5,
+        "vicinity": "屏東市福建路19-1號",
+        "user_ratings_total": 604,
+        "location": {
+            "lat": 22.6718961,
+            "lng": 120.4920005
+        },
+        "place_id": "ChIJU91yl5AXbjQRMDGozaPkNqw"
+    },
+    {
+        "name": "麥當勞-屏東太平洋店",
+        "rating": 4.1,
+        "vicinity": "屏東市中正路72號",
+        "user_ratings_total": 251,
+        "location": {
+            "lat": 22.67424339999999,
+            "lng": 120.4898241
+        },
+        "place_id": "ChIJvYsuO5sXbjQR5_CkIOFHz0c"
+    },
+    {
+        "name": "九湯屋日本拉麵-屏東夜市店",
+        "rating": 4.3,
+        "vicinity": "屏東市民權路22-1號",
+        "user_ratings_total": 243,
+        "location": {
+            "lat": 22.67007049999999,
+            "lng": 120.4911706
+        },
+        "place_id": "ChIJhxFRsYUXbjQRoRW63YoGA_c"
+    },
+    {
+        "name": "任家涼麵",
+        "rating": 4.3,
+        "vicinity": "屏東市忠孝路155之1號",
+        "user_ratings_total": 222,
+        "location": {
+            "lat": 22.6762831,
+            "lng": 120.4873053
+        },
+        "place_id": "ChIJkeI9GXYXbjQRDuK-YDbv0-A"
+    },
+    {
+        "name": "玲恩幸福",
+        "rating": 4.3,
+        "vicinity": "屏東市杭州街43-1號號",
+        "user_ratings_total": 71,
+        "location": {
+            "lat": 22.6738412,
+            "lng": 120.4912949
+        },
+        "place_id": "ChIJHXabxJoXbjQRoY0qEYFqkAU"
+    },
+    {
+        "name": "大黑天 壽司專賣",
+        "rating": 4.6,
+        "vicinity": "屏東市杭州街26號",
+        "user_ratings_total": 169,
+        "location": {
+            "lat": 22.67375669999999,
+            "lng": 120.491426
+        },
+        "place_id": "ChIJq3YRD60XbjQRbQNeeqVHMq4"
+    },
+    {
+        "name": "牛角日本燒肉專門店-屏東太平洋店",
+        "rating": 4.6,
+        "vicinity": "3, No. 80號, 中華路, 屏東市",
+        "user_ratings_total": 1435,
+        "location": {
+            "lat": 22.6740893,
+            "lng": 120.4906227
+        },
+        "place_id": "ChIJrcAi35oXbjQRd0198q9-ZTg"
+    },
+    {
+        "name": "涮乃葉 屏東太平洋店",
+        "rating": 4.1,
+        "vicinity": "屏東市中華路80號1樓",
+        "user_ratings_total": 198,
+        "location": {
+            "lat": 22.674038,
+            "lng": 120.4906067
+        },
+        "place_id": "ChIJrbBLchsXbjQRNurfkj_jNoE"
+    },
+    {
+        "name": "好正點港式點心 屏東太平洋百貨店",
+        "rating": 4.1,
+        "vicinity": "2F, No. 80號, 中華路, 屏東市",
+        "user_ratings_total": 457,
+        "location": {
+            "lat": 22.673973,
+            "lng": 120.4906468
+        },
+        "place_id": "ChIJcRMxNPUXbjQRxh9cGrsk6es"
+    },
+    {
+        "name": "好食沙拉-屏東林森店",
+        "rating": 4.3,
+        "vicinity": "屏東市林森路106號",
+        "user_ratings_total": 86,
+        "location": {
+            "lat": 22.6733523,
+            "lng": 120.4910389
+        },
+        "place_id": "ChIJx-ue0ZoXbjQRiSa_A1g2oPE"
+    },
+    {
+        "name": "汕頭麵",
+        "rating": 4.6,
+        "vicinity": "屏東市林森路118號",
+        "user_ratings_total": 17,
+        "location": {
+            "lat": 22.6734533,
+            "lng": 120.4907005
+        },
+        "place_id": "ChIJb0fy1poXbjQRXlTpEbiILLQ"
+    },
+    {
+        "name": "Woopen木盆 民權加盟門市",
+        "rating": 4.5,
+        "vicinity": "屏東市民權路91號",
+        "user_ratings_total": 187,
+        "location": {
+            "lat": 22.6734556,
+            "lng": 120.4921796
+        },
+        "place_id": "ChIJLem4M78XbjQRxT0nI9MPzcM"
+    },
+    {
+        "name": "空包蛋香港雞蛋仔",
+        "rating": 4.2,
+        "vicinity": "屏東市林森路126號",
+        "user_ratings_total": 14,
+        "location": {
+            "lat": 22.6735162,
+            "lng": 120.490461
+        },
+        "place_id": "ChIJUbrwKZsXbjQRLPyoCGJwdMw"
+    },
+    {
+        "name": "阿力香雞排屏東林森店(鹽酥雞鹹酥雞)",
+        "rating": 4.8,
+        "vicinity": "屏東市林森路98號",
+        "user_ratings_total": 24,
+        "location": {
+            "lat": 22.6731669,
+            "lng": 120.4917071
+        },
+        "place_id": "ChIJweA_4AoXbjQR9tkor-yy340"
+    },
+    {
+        "name": "上品屋 海味鍋燒（原山•文竟）",
+        "rating": 4.1,
+        "vicinity": "屏東市民權路83號",
+        "user_ratings_total": 211,
+        "location": {
+            "lat": 22.6732794,
+            "lng": 120.4921342
+        },
+        "place_id": "ChIJ7WKrtZoXbjQRoIAiDvoWHxg"
+    },
+    {
+        "name": "早安美芝城屏東林森",
+        "rating": 4.3,
+        "vicinity": "屏東市林森路101號",
+        "user_ratings_total": 7,
+        "location": {
+            "lat": 22.6730809,
+            "lng": 120.4910441
+        },
+        "place_id": "ChIJ-er30poXbjQRAKIxSHdwR5M"
+    },
+    {
+        "name": "林桑滷味",
+        "rating": 4.7,
+        "vicinity": "屏東市林森路119號",
+        "user_ratings_total": 12,
+        "location": {
+            "lat": 22.6732415,
+            "lng": 120.4906014
+        },
+        "place_id": "ChIJjVwwnoUXbjQRlhZQcpi8m6o"
+    }
+]

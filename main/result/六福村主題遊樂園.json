@@ -1,0 +1,35 @@
+[
+    {
+        "name": "elite deli",
+        "rating": 4.8,
+        "vicinity": "關西鎮",
+        "user_ratings_total": 40,
+        "location": {
+            "lat": 24.8203577,
+            "lng": 121.1821931
+        },
+        "place_id": "ChIJi-Ai7AQ8aDQR1v45uyf5YT8"
+    },
+    {
+        "name": "金鳳樓",
+        "rating": 4.4,
+        "vicinity": "關西鎮",
+        "user_ratings_total": 54,
+        "location": {
+            "lat": 24.8220225,
+            "lng": 121.1840161
+        },
+        "place_id": "ChIJ9S-2lxw8aDQRNPnwOcbQ34A"
+    },
+    {
+        "name": "美國大西部牛排館",
+        "rating": 4.2,
+        "vicinity": "關西鎮拱子溝30660號",
+        "user_ratings_total": 135,
+        "location": {
+            "lat": 24.8252393,
+            "lng": 121.1806029
+        },
+        "place_id": "ChIJ3_V2MB08aDQRbEQktUk3gx0"
+    }
+]

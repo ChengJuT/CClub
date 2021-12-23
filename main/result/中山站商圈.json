@@ -1,0 +1,409 @@
+[
+    {
+        "name": "龍都酒樓",
+        "rating": 4.2,
+        "vicinity": "中山區中山北路一段105巷18-1號",
+        "user_ratings_total": 5808,
+        "location": {
+            "lat": 25.0503539,
+            "lng": 121.5244483
+        },
+        "place_id": "ChIJp9P5QW-pQjQRQ3GSoHy4ijU"
+    },
+    {
+        "name": "夏慕尼新香榭鐵板燒台北中山北店",
+        "rating": 4.3,
+        "vicinity": "中山區中山北路二段44號",
+        "user_ratings_total": 3731,
+        "location": {
+            "lat": 25.0553011,
+            "lng": 121.52236
+        },
+        "place_id": "ChIJf3pxrGmpQjQRX2eGPcFCreg"
+    },
+    {
+        "name": "王品牛排台北中山北店",
+        "rating": 4.2,
+        "vicinity": "中山區中山北路二段33號2F",
+        "user_ratings_total": 1811,
+        "location": {
+            "lat": 25.0533809,
+            "lng": 121.5228424
+        },
+        "place_id": "ChIJVz_H32ipQjQRDDbDTPoI01Q"
+    },
+    {
+        "name": "台北晶華酒店- 栢麗廳 Brasserie",
+        "rating": 4.2,
+        "vicinity": "中山區中山北路二段39巷3號",
+        "user_ratings_total": 5670,
+        "location": {
+            "lat": 25.05417779999999,
+            "lng": 121.524244
+        },
+        "place_id": "ChIJyQcF-WipQjQRWCGQsl0cNzI"
+    },
+    {
+        "name": "(老爺大酒店)Le Caf'e咖啡廳",
+        "rating": 4.1,
+        "vicinity": "中山區中山北路二段37之1號2樓",
+        "user_ratings_total": 1615,
+        "location": {
+            "lat": 25.0539473,
+            "lng": 121.5228839
+        },
+        "place_id": "ChIJu63D4mipQjQRRWbpB7bB_Rg"
+    },
+    {
+        "name": "天廚菜館",
+        "rating": 4.1,
+        "vicinity": "中山區南京西路1號3樓",
+        "user_ratings_total": 2138,
+        "location": {
+            "lat": 25.0525,
+            "lng": 121.5219444
+        },
+        "place_id": "ChIJkcqlLWmpQjQRDcUKewBR3Sc"
+    },
+    {
+        "name": "（百花台）R9 Café",
+        "rating": 4.3,
+        "vicinity": "大同區赤峰街41巷13號",
+        "user_ratings_total": 3056,
+        "location": {
+            "lat": 25.0549026,
+            "lng": 121.5203316
+        },
+        "place_id": "ChIJ57Tqe2mpQjQRYJHQgz16IVw"
+    },
+    {
+        "name": "GALERIE Bistro 家樂利小酒館",
+        "rating": 4.3,
+        "vicinity": "大同區南京西路25巷2號",
+        "user_ratings_total": 978,
+        "location": {
+            "lat": 25.0533556,
+            "lng": 121.5202353
+        },
+        "place_id": "ChIJN6NAV2mpQjQRsARspmzkV7g"
+    },
+    {
+        "name": "一風堂 中山本店",
+        "rating": 4.1,
+        "vicinity": "中山區中山北路一段85號",
+        "user_ratings_total": 3337,
+        "location": {
+            "lat": 25.05048829999999,
+            "lng": 121.5222772
+        },
+        "place_id": "ChIJExxI5G6pQjQRvwxapNQ25QQ"
+    },
+    {
+        "name": "麵屋武藏-神山",
+        "rating": 4.2,
+        "vicinity": "中山區中山北路一段121巷18號",
+        "user_ratings_total": 2861,
+        "location": {
+            "lat": 25.0510319,
+            "lng": 121.5235744
+        },
+        "place_id": "ChIJg-MBO2-pQjQRFFJKWg8N4b0"
+    },
+    {
+        "name": "笹鮨 SASA",
+        "rating": 4.4,
+        "vicinity": "中山區中山北路二段42巷6號",
+        "user_ratings_total": 293,
+        "location": {
+            "lat": 25.05454289999999,
+            "lng": 121.5220929
+        },
+        "place_id": "ChIJq6qqqgasQjQRTT2iuzZ_NVU"
+    },
+    {
+        "name": "貓妝自家烘焙咖啡館",
+        "rating": 4.3,
+        "vicinity": "大同區長安西路64號",
+        "user_ratings_total": 803,
+        "location": {
+            "lat": 25.0501829,
+            "lng": 121.5196979
+        },
+        "place_id": "ChIJrxnYKmypQjQRTUyr-Z4K_YY"
+    },
+    {
+        "name": "蘿絲瑪莉義麵坊",
+        "rating": 4.3,
+        "vicinity": "中山區南京西路12巷13弄9號",
+        "user_ratings_total": 5794,
+        "location": {
+            "lat": 25.0517642,
+            "lng": 121.5219695
+        },
+        "place_id": "ChIJ6di4z26pQjQRDuQAecDvA_U"
+    },
+    {
+        "name": "台北晶華酒店- 晶華軒 Silks House",
+        "rating": 4.3,
+        "vicinity": "中山區中山北路二段39巷3號3樓",
+        "user_ratings_total": 742,
+        "location": {
+            "lat": 25.0541478,
+            "lng": 121.524194
+        },
+        "place_id": "ChIJ5ymH9mipQjQRvCXzKzCR3OI"
+    },
+    {
+        "name": "川之流長安店—肉品海鮮任你選 | 中山區火鍋 | 長安東路餐廳 | 濕式熟成牛肉 | 附自助吧檯 | 甜品櫃 | 火鍋",
+        "rating": 4.6,
+        "vicinity": "中山區長安東路一段8號",
+        "user_ratings_total": 1570,
+        "location": {
+            "lat": 25.04952399999999,
+            "lng": 121.522561
+        },
+        "place_id": "ChIJS66H_26pQjQR08Jm7q2JiTI"
+    },
+    {
+        "name": "台北晶華酒店－ROBIN'S 牛排屋",
+        "rating": 4.3,
+        "vicinity": "中山區中山北路二段39巷3號2樓",
+        "user_ratings_total": 1602,
+        "location": {
+            "lat": 25.0541056,
+            "lng": 121.5243311
+        },
+        "place_id": "ChIJZXoki2ipQjQRgSFJTsI-62Q"
+    },
+    {
+        "name": "Hana Bi はなび 日式Tapas居酒屋 釜飯專門店",
+        "rating": 4.3,
+        "vicinity": "1之3號, No. 1之3號, 中山北路二段20巷, 中山區",
+        "user_ratings_total": 419,
+        "location": {
+            "lat": 25.0535972,
+            "lng": 121.5220639
+        },
+        "place_id": "ChIJ6dwPGGmpQjQR9UNDSqhf1zk"
+    },
+    {
+        "name": "乾杯 中山店",
+        "rating": 4.1,
+        "vicinity": "大同區南京西路25巷2之1號",
+        "user_ratings_total": 1406,
+        "location": {
+            "lat": 25.0531144,
+            "lng": 121.5201853
+        },
+        "place_id": "ChIJdyzWVmmpQjQRIU-fFb4BUL0"
+    },
+    {
+        "name": "荷蘭小鬆餅（長安創始店）",
+        "rating": 4.1,
+        "vicinity": "大同區長安西路52巷18號",
+        "user_ratings_total": 2206,
+        "location": {
+            "lat": 25.0496671,
+            "lng": 121.5196164
+        },
+        "place_id": "ChIJgYYQ1m2pQjQRC3kF1MNEAdM"
+    },
+    {
+        "name": "大戶屋誠品南西店",
+        "rating": 4.1,
+        "vicinity": "中山區南京西路一段14號 B1",
+        "user_ratings_total": 330,
+        "location": {
+            "lat": 25.0522149,
+            "lng": 121.5206209
+        },
+        "place_id": "ChIJuX3KNWipQjQROrWPgPThYhc"
+    },
+    {
+        "name": "京都鐵板燒",
+        "rating": 4.3,
+        "vicinity": "中山區長春路6號B1樓",
+        "user_ratings_total": 401,
+        "location": {
+            "lat": 25.0548525,
+            "lng": 121.5232423
+        },
+        "place_id": "ChIJ-wcgV2ipQjQRSq2ujqFRaSM"
+    },
+    {
+        "name": "BELLINI Pasta Pasta 台北京站店",
+        "rating": 4.1,
+        "vicinity": "大同區承德路一段1號4樓",
+        "user_ratings_total": 1749,
+        "location": {
+            "lat": 25.0492337,
+            "lng": 121.5170684
+        },
+        "place_id": "ChIJG36LdG2pQjQRkkhTYf4nqLU"
+    },
+    {
+        "name": "山里日本料理",
+        "rating": 4.2,
+        "vicinity": "中山區南京東路一段9號5F",
+        "user_ratings_total": 522,
+        "location": {
+            "lat": 25.0525475,
+            "lng": 121.5232747
+        },
+        "place_id": "ChIJXyK30WipQjQR5qSZB_2NRN8"
+    },
+    {
+        "name": "九寨十鍋 四川麻辣火鍋",
+        "rating": 4.3,
+        "vicinity": "中山區長安東路一段12-2號",
+        "user_ratings_total": 1395,
+        "location": {
+            "lat": 25.0493843,
+            "lng": 121.523009
+        },
+        "place_id": "ChIJSR6iAG-pQjQRDO_iyuZf31M"
+    },
+    {
+        "name": "平成十九",
+        "rating": 4.1,
+        "vicinity": "中山區南京西路18巷6弄8號",
+        "user_ratings_total": 1542,
+        "location": {
+            "lat": 25.051965,
+            "lng": 121.519699
+        },
+        "place_id": "ChIJ23IAHWypQjQRbuPGXn5Q0lM"
+    },
+    {
+        "name": "smith&hsu 現代茶館 南京東路店",
+        "rating": 4.2,
+        "vicinity": "中山區南京東路一段36號",
+        "user_ratings_total": 435,
+        "location": {
+            "lat": 25.0519952,
+            "lng": 121.52396
+        },
+        "place_id": "ChIJEeQayGipQjQRnqht5ZS_Fqk"
+    },
+    {
+        "name": "中山日本料理廳 - 台北老爺大酒店",
+        "rating": 4.1,
+        "vicinity": "中山區中山北路二段37之1號2F",
+        "user_ratings_total": 254,
+        "location": {
+            "lat": 25.0536772,
+            "lng": 121.5228805
+        },
+        "place_id": "ChIJu63D4mipQjQRtFjMT4CrBKc"
+    },
+    {
+        "name": "丸亀製麵 新光三越台北南西3館店 烏龍麵餐廳",
+        "rating": 4.2,
+        "vicinity": "中山區南京西路15號B1",
+        "user_ratings_total": 507,
+        "location": {
+            "lat": 25.0527485,
+            "lng": 121.5206836
+        },
+        "place_id": "ChIJhTBZsm6pQjQRvklqx4EUHZY"
+    },
+    {
+        "name": "AN-Burger",
+        "rating": 4.1,
+        "vicinity": "中山區中山北路二段36巷17號",
+        "user_ratings_total": 933,
+        "location": {
+            "lat": 25.0543751,
+            "lng": 121.5217341
+        },
+        "place_id": "ChIJOYwTDmmpQjQRk7EkLwOn9s8"
+    },
+    {
+        "name": "屯京拉麵 中山店",
+        "rating": 4.1,
+        "vicinity": "中山區中山北路一段141號",
+        "user_ratings_total": 3266,
+        "location": {
+            "lat": 25.0518467,
+            "lng": 121.522678
+        },
+        "place_id": "ChIJuab61W6pQjQRathPlmQEGmg"
+    },
+    {
+        "name": "The One 食藝．中山概念店",
+        "rating": 4.3,
+        "vicinity": "中山區中山北路二段30號",
+        "user_ratings_total": 389,
+        "location": {
+            "lat": 25.05414399999999,
+            "lng": 121.522435
+        },
+        "place_id": "ChIJV5lMA2mpQjQR_rSsWRfFRuw"
+    },
+    {
+        "name": "Mo-Mo-Paradise 台北京站牧場",
+        "rating": 4.4,
+        "vicinity": "大同區承德路一段1號京站時尚廣場4樓",
+        "user_ratings_total": 1640,
+        "location": {
+            "lat": 25.049308,
+            "lng": 121.517194
+        },
+        "place_id": "ChIJG36LdG2pQjQRTUJUC0thLFE"
+    },
+    {
+        "name": "MO-MO-PARADISE 台北中山牧場",
+        "rating": 4.2,
+        "vicinity": "2F, No. 6號, 南京西路, 中山區",
+        "user_ratings_total": 1645,
+        "location": {
+            "lat": 25.0522243,
+            "lng": 121.521896
+        },
+        "place_id": "ChIJ2-hKzG6pQjQRZI7rGa7j5ZA"
+    },
+    {
+        "name": "旬採鮨処-中山店",
+        "rating": 4.4,
+        "vicinity": "中山區中山北路二段50巷3號",
+        "user_ratings_total": 311,
+        "location": {
+            "lat": 25.05629919999999,
+            "lng": 121.5222524
+        },
+        "place_id": "ChIJAdqFyWmpQjQRsxXJXkWEVfw"
+    },
+    {
+        "name": "米塔義式廚房-南京店",
+        "rating": 4.1,
+        "vicinity": "中山區南京東路一段24號2樓",
+        "user_ratings_total": 1551,
+        "location": {
+            "lat": 25.0519006,
+            "lng": 121.5236634
+        },
+        "place_id": "ChIJrdVEMGKpQjQRU7_-Go7nibc"
+    },
+    {
+        "name": "61 NOTE | SHOP & TEA",
+        "rating": 4.1,
+        "vicinity": "大同區南京西路64巷10弄6號",
+        "user_ratings_total": 360,
+        "location": {
+            "lat": 25.0525429,
+            "lng": 121.5182821
+        },
+        "place_id": "ChIJZ4KAcmypQjQRhx7QvpLk3kY"
+    },
+    {
+        "name": "開飯川食堂 京站店",
+        "rating": 4.2,
+        "vicinity": "大同區承德路一段1號京站時尚廣場號B3",
+        "user_ratings_total": 1275,
+        "location": {
+            "lat": 25.049308,
+            "lng": 121.5171935
+        },
+        "place_id": "ChIJG36LdG2pQjQRXX8BL6jMVGU"
+    }
+]

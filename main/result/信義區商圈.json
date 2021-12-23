@@ -1,0 +1,387 @@
+[
+    {
+        "name": "欣葉日本料理-信義新天地A11店",
+        "rating": 4.1,
+        "vicinity": "信義區松壽路11號5樓",
+        "user_ratings_total": 4206,
+        "location": {
+            "lat": 25.0360953,
+            "lng": 121.567219
+        },
+        "place_id": "ChIJPxnPnrCrQjQRmEwUNrIViu0"
+    },
+    {
+        "name": "隨意鳥地方101觀景餐廳 - 求婚 生日 尾牙 婚宴 景觀夜景 牛排餐廳 推薦",
+        "rating": 4.1,
+        "vicinity": "信義區信義路五段7號85F",
+        "user_ratings_total": 2894,
+        "location": {
+            "lat": 25.0335715,
+            "lng": 121.5649428
+        },
+        "place_id": "ChIJ1S3Z6barQjQRUnd4BwJ6NkY"
+    },
+    {
+        "name": "勞瑞斯牛肋排餐廳",
+        "rating": 4.2,
+        "vicinity": "信義區松仁路28號6樓",
+        "user_ratings_total": 1991,
+        "location": {
+            "lat": 25.039633,
+            "lng": 121.5678702
+        },
+        "place_id": "ChIJjwfWf7CrQjQR8HEILkaBigk"
+    },
+    {
+        "name": "Mo-Mo-Paradise 台北Neo19牧場",
+        "rating": 4.4,
+        "vicinity": "2F, No. 22號, 松壽路, 信義區",
+        "user_ratings_total": 1202,
+        "location": {
+            "lat": 25.0355475,
+            "lng": 121.5678114
+        },
+        "place_id": "ChIJTW0EhbCrQjQRbXvETrjnOJI"
+    },
+    {
+        "name": "PAUL 法國保羅麵包 (新光三越信義A9店)",
+        "rating": 4.1,
+        "vicinity": "號 地下 2 樓, No. 9, 松壽路, 信義區",
+        "user_ratings_total": 961,
+        "location": {
+            "lat": 25.0359988,
+            "lng": 121.5666515
+        },
+        "place_id": "ChIJ5_GyFLqrQjQRsflOXWI1MQI"
+    },
+    {
+        "name": "馬辣頂級麻辣鴛鴦火鍋-信義店",
+        "rating": 4.4,
+        "vicinity": "信義區松壽路22號3樓",
+        "user_ratings_total": 3778,
+        "location": {
+            "lat": 25.0354574,
+            "lng": 121.5678596
+        },
+        "place_id": "ChIJ9cRPhLCrQjQRqMgpsbFekQE"
+    },
+    {
+        "name": "丸亀製麵 新光三越台北信義A8店 烏龍麵餐廳",
+        "rating": 4.2,
+        "vicinity": "信義區松高路12號B2",
+        "user_ratings_total": 716,
+        "location": {
+            "lat": 25.0383589,
+            "lng": 121.5666138
+        },
+        "place_id": "ChIJoX9YNLqrQjQR-MWv7zDgkN8"
+    },
+    {
+        "name": "Chili's Grill & Bar美式休閒餐廳-信義店 (Xinyi)",
+        "rating": 4.5,
+        "vicinity": "信義區松壽路22號",
+        "user_ratings_total": 1739,
+        "location": {
+            "lat": 25.0355335,
+            "lng": 121.5677574
+        },
+        "place_id": "ChIJQXbIZXepQjQRMpdVuxgB-f8"
+    },
+    {
+        "name": "BELLINI Pasta Pasta 台北信義威秀店",
+        "rating": 4.3,
+        "vicinity": "信義區松壽路20號",
+        "user_ratings_total": 1076,
+        "location": {
+            "lat": 25.0352187,
+            "lng": 121.5672369
+        },
+        "place_id": "ChIJH3SPl7CrQjQRaflQ7dF8dek"
+    },
+    {
+        "name": "台北寒舍艾美酒店寒舍食譜",
+        "rating": 4.2,
+        "vicinity": "信義區松仁路38號2樓",
+        "user_ratings_total": 486,
+        "location": {
+            "lat": 25.0382675,
+            "lng": 121.5681767
+        },
+        "place_id": "ChIJewvXULqrQjQRGoqJRNRDAP0"
+    },
+    {
+        "name": "欣葉台菜-信義新天地A9店",
+        "rating": 4.1,
+        "vicinity": "信義區松壽路9號8樓",
+        "user_ratings_total": 1427,
+        "location": {
+            "lat": 25.03667059999999,
+            "lng": 121.5667018
+        },
+        "place_id": "ChIJrSZypLCrQjQRdNWuZqKdwqM"
+    },
+    {
+        "name": "非常泰",
+        "rating": 4.4,
+        "vicinity": "信義區松壽路22號",
+        "user_ratings_total": 754,
+        "location": {
+            "lat": 25.0355031,
+            "lng": 121.56786
+        },
+        "place_id": "ChIJj9lPhLCrQjQRJeduZ4avFRU"
+    },
+    {
+        "name": "三井cuisine M",
+        "rating": 4.2,
+        "vicinity": "信義區松智路1號",
+        "user_ratings_total": 1056,
+        "location": {
+            "lat": 25.0385722,
+            "lng": 121.5662876
+        },
+        "place_id": "ChIJzeoLKbqrQjQRESSI-FKAiAM"
+    },
+    {
+        "name": "兩班家韓式碳烤 新光三越A9店",
+        "rating": 4.1,
+        "vicinity": "信義區松壽路9號6樓",
+        "user_ratings_total": 702,
+        "location": {
+            "lat": 25.0364054,
+            "lng": 121.566685
+        },
+        "place_id": "ChIJKSJypLCrQjQR4zs1EAIqa1c"
+    },
+    {
+        "name": "紫艷中餐廳",
+        "rating": 4.3,
+        "vicinity": "信義區忠孝東路五段10號31樓",
+        "user_ratings_total": 1147,
+        "location": {
+            "lat": 25.040598,
+            "lng": 121.565735
+        },
+        "place_id": "ChIJwd1oV7mrQjQR2ozp9uHcBGw"
+    },
+    {
+        "name": "金色三麥 信義誠品店",
+        "rating": 4.2,
+        "vicinity": "信義區松高路11號",
+        "user_ratings_total": 3023,
+        "location": {
+            "lat": 25.0391196,
+            "lng": 121.5658
+        },
+        "place_id": "ChIJuQeY1LurQjQRnFqYW0PNDCM"
+    },
+    {
+        "name": "頂鮮台南擔仔麵 台北101店 (DingXian Taipei)",
+        "rating": 4.7,
+        "vicinity": "86樓, No. 7號, 信義路五段, 信义区",
+        "user_ratings_total": 4461,
+        "location": {
+            "lat": 25.033976,
+            "lng": 121.5645389
+        },
+        "place_id": "ChIJa4ipyLarQjQR0v7c3XyhKoc"
+    },
+    {
+        "name": "太陽蕃茄拉麵 誠品信義店",
+        "rating": 4.2,
+        "vicinity": "信義區松高路11號B2",
+        "user_ratings_total": 617,
+        "location": {
+            "lat": 25.0397197,
+            "lng": 121.5658739
+        },
+        "place_id": "ChIJywaY1LurQjQRfIKh_R0dOKk"
+    },
+    {
+        "name": "醐同燒肉夜食五號店",
+        "rating": 4.1,
+        "vicinity": "信義區松壽路22號2樓",
+        "user_ratings_total": 741,
+        "location": {
+            "lat": 25.0355169,
+            "lng": 121.5679057
+        },
+        "place_id": "ChIJ9cRPhLCrQjQR1YYO-jEVCDM"
+    },
+    {
+        "name": "饗食天堂 台北信義店",
+        "rating": 4.1,
+        "vicinity": "6樓, ATT 4 FUN百貨, No. 12號, 松壽路, 信義區",
+        "user_ratings_total": 3578,
+        "location": {
+            "lat": 25.03531,
+            "lng": 121.5660665
+        },
+        "place_id": "ChIJjfzEsLCrQjQRVcQNcIk94A8"
+    },
+    {
+        "name": "老乾杯 信義店",
+        "rating": 4.2,
+        "vicinity": "8樓, 新光三越 A9 館, No. 9號, 松壽路, 信義區",
+        "user_ratings_total": 1376,
+        "location": {
+            "lat": 25.0365352,
+            "lng": 121.5667157
+        },
+        "place_id": "ChIJrSZypLCrQjQRJ2NhICGN2JA"
+    },
+    {
+        "name": "KiKi餐廳(信義誠品店)",
+        "rating": 4.2,
+        "vicinity": "信義區松高路11號誠品生活商場 4樓",
+        "user_ratings_total": 1861,
+        "location": {
+            "lat": 25.039664,
+            "lng": 121.5657554
+        },
+        "place_id": "ChIJX2Fl1LurQjQRQaI37vufetM"
+    },
+    {
+        "name": "TGI FRIDAYS 星期五美式餐廳 信義餐廳",
+        "rating": 4.1,
+        "vicinity": "信義區忠孝東路五段8號2樓",
+        "user_ratings_total": 2170,
+        "location": {
+            "lat": 25.0407344,
+            "lng": 121.5653917
+        },
+        "place_id": "ChIJQeGuX7mrQjQRaWkzgt7mxpU"
+    },
+    {
+        "name": "台北君悅酒店 ZIGA ZAGA",
+        "rating": 4.3,
+        "vicinity": "信義區松壽路2號",
+        "user_ratings_total": 718,
+        "location": {
+            "lat": 25.0353371,
+            "lng": 121.5631414
+        },
+        "place_id": "ChIJyS1ap7erQjQRcLIsm7GE0Y4"
+    },
+    {
+        "name": "乾杯 信義 ATT店",
+        "rating": 4.2,
+        "vicinity": "信義區松壽路12號3樓",
+        "user_ratings_total": 1138,
+        "location": {
+            "lat": 25.035666,
+            "lng": 121.566074
+        },
+        "place_id": "ChIJW8UfsbCrQjQRrKhL2oJ8Mgc"
+    },
+    {
+        "name": "瓦城泰國料理 - 台北三越信義店",
+        "rating": 4.3,
+        "vicinity": "信義區松壽路9號",
+        "user_ratings_total": 748,
+        "location": {
+            "lat": 25.03667059999999,
+            "lng": 121.5667018
+        },
+        "place_id": "ChIJKSJypLCrQjQRDa2_5FFWREw"
+    },
+    {
+        "name": "1010 Hunan Cuisine Eslite Xinyi Restaurant",
+        "rating": 4.4,
+        "vicinity": "信義區松高路11號6樓",
+        "user_ratings_total": 1132,
+        "location": {
+            "lat": 25.0397197,
+            "lng": 121.5658739
+        },
+        "place_id": "ChIJywaY1LurQjQRVWCvXmEUyEo"
+    },
+    {
+        "name": "滇味廚房",
+        "rating": 4.1,
+        "vicinity": "信義區永吉路30巷178弄2號",
+        "user_ratings_total": 1087,
+        "location": {
+            "lat": 25.0414748,
+            "lng": 121.5686372
+        },
+        "place_id": "ChIJkWE9hLyrQjQRQ97gEXyZCDo"
+    },
+    {
+        "name": "L’ATELIER de Joël Robuchon侯布雄法式餐廳",
+        "rating": 4.2,
+        "vicinity": "信義區松仁路28號",
+        "user_ratings_total": 1427,
+        "location": {
+            "lat": 25.0396219,
+            "lng": 121.567641
+        },
+        "place_id": "ChIJMX_7qLurQjQRy5IA3BMsmv4"
+    },
+    {
+        "name": "HALEAKALA 美式漢堡",
+        "rating": 4.2,
+        "vicinity": "信義區松仁路28號B2",
+        "user_ratings_total": 104,
+        "location": {
+            "lat": 25.0396219,
+            "lng": 121.567641
+        },
+        "place_id": "ChIJB3VqqLurQjQRmy6_3vfAs_A"
+    },
+    {
+        "name": "合.shabu",
+        "rating": 4.6,
+        "vicinity": "信義區松仁路28號",
+        "user_ratings_total": 2996,
+        "location": {
+            "lat": 25.0396219,
+            "lng": 121.567641
+        },
+        "place_id": "ChIJB3VqqLurQjQR2mNcCzP0Xgk"
+    },
+    {
+        "name": "誠品信義店(24小時書店)",
+        "rating": 4.5,
+        "vicinity": "信義區松高路11號",
+        "user_ratings_total": 38671,
+        "location": {
+            "lat": 25.03962,
+            "lng": 121.5652046
+        },
+        "place_id": "ChIJywaY1LurQjQRS74hsbes0Xk"
+    },
+    {
+        "name": "大戶屋統一時代台北店",
+        "rating": 4.3,
+        "vicinity": "信義區忠孝東路五段8號B2",
+        "user_ratings_total": 656,
+        "location": {
+            "lat": 25.0406227,
+            "lng": 121.5654586
+        },
+        "place_id": "ChIJ3259YLmrQjQRvk0pEymzGXQ"
+    },
+    {
+        "name": "凱林鐵板燒 信義威秀店",
+        "rating": 4.1,
+        "vicinity": "信義區松壽路20號",
+        "user_ratings_total": 252,
+        "location": {
+            "lat": 25.0352187,
+            "lng": 121.5672369
+        },
+        "place_id": "ChIJXXGPl7CrQjQRvnwN9buabIg"
+    },
+    {
+        "name": "明德素食園誠品信義店",
+        "rating": 4.1,
+        "vicinity": "信義區松高路11號B2",
+        "user_ratings_total": 276,
+        "location": {
+            "lat": 25.0397197,
+            "lng": 121.5658739
+        },
+        "place_id": "ChIJuQeY1LurQjQRWY_8TyQkNuQ"
+    }
+]

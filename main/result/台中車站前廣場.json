@@ -1,0 +1,365 @@
+[
+    {
+        "name": "台中市第四信用合作社",
+        "rating": 4.4,
+        "vicinity": "中區中山路72號",
+        "user_ratings_total": 7576,
+        "location": {
+            "lat": 24.1389704,
+            "lng": 120.6820167
+        },
+        "place_id": "ChIJaenMdRM9aTQRGt9LwGCrXk0"
+    },
+    {
+        "name": "傳記台中正老牌香菇肉羹 綠川店",
+        "rating": 4.1,
+        "vicinity": "中區綠川西街167號",
+        "user_ratings_total": 2217,
+        "location": {
+            "lat": 24.1397152,
+            "lng": 120.6847399
+        },
+        "place_id": "ChIJE92t6hQ9aTQRvcsTmrDHG3I"
+    },
+    {
+        "name": "宮原眼科",
+        "rating": 4.2,
+        "vicinity": "中區中山路20號",
+        "user_ratings_total": 23749,
+        "location": {
+            "lat": 24.1378278,
+            "lng": 120.6835552
+        },
+        "place_id": "ChIJ-bIJXaeQbjQRBlsPVLME9EY"
+    },
+    {
+        "name": "瓦城泰式料理 - 台中新時代",
+        "rating": 4.1,
+        "vicinity": "東區復興路四段186號",
+        "user_ratings_total": 661,
+        "location": {
+            "lat": 24.1360755,
+            "lng": 120.687597
+        },
+        "place_id": "ChIJ9a_5lRU9aTQRxrDZh50hGJ4"
+    },
+    {
+        "name": "布娜飛比利時餐酒館台中新時代店Bravo BeerI台中聚餐",
+        "rating": 4.6,
+        "vicinity": "東區復興路四段186號大魯閣新時代購物中心 10樓",
+        "user_ratings_total": 3196,
+        "location": {
+            "lat": 24.1357126,
+            "lng": 120.6876958
+        },
+        "place_id": "ChIJ9a_5lRU9aTQRc9gNI209z8A"
+    },
+    {
+        "name": "沁園春",
+        "rating": 4.1,
+        "vicinity": "中區台灣大道一段129號",
+        "user_ratings_total": 2117,
+        "location": {
+            "lat": 24.1395207,
+            "lng": 120.6826624
+        },
+        "place_id": "ChIJc6j3ZBM9aTQRe4uIUepPgok"
+    },
+    {
+        "name": "小夏天petit été",
+        "rating": 4.1,
+        "vicinity": "中區自由路二段28-2號",
+        "user_ratings_total": 324,
+        "location": {
+            "lat": 24.1390741,
+            "lng": 120.6814291
+        },
+        "place_id": "ChIJY8a16KY9aTQRy83XTQMjsZ0"
+    },
+    {
+        "name": "汕頭牛肉劉",
+        "rating": 4.2,
+        "vicinity": "中區台灣大道一段81巷13號",
+        "user_ratings_total": 790,
+        "location": {
+            "lat": 24.1387867,
+            "lng": 120.6832495
+        },
+        "place_id": "ChIJVROFgRQ9aTQRYvaN28SQSrY"
+    },
+    {
+        "name": "台中英雄館",
+        "rating": 4.1,
+        "vicinity": "東區南京路127號",
+        "user_ratings_total": 1330,
+        "location": {
+            "lat": 24.1398024,
+            "lng": 120.688479
+        },
+        "place_id": "ChIJgbkrVRU9aTQRLQfhIGBSZUg"
+    },
+    {
+        "name": "阿明師老店太陽堂",
+        "rating": 4.1,
+        "vicinity": "中區自由路二段11號",
+        "user_ratings_total": 1816,
+        "location": {
+            "lat": 24.1388735,
+            "lng": 120.6807272
+        },
+        "place_id": "ChIJOWYBrBM9aTQR9jnOEjwwYnY"
+    },
+    {
+        "name": "超吉飯桶-台中站前店",
+        "rating": 4.1,
+        "vicinity": "中區台灣大道一段61號",
+        "user_ratings_total": 710,
+        "location": {
+            "lat": 24.138785,
+            "lng": 120.6836004
+        },
+        "place_id": "ChIJGWQ6hxQ9aTQRVuuM0b-46ew"
+    },
+    {
+        "name": "台中肉員",
+        "rating": 4.1,
+        "vicinity": "南區復興路三段529號",
+        "user_ratings_total": 6489,
+        "location": {
+            "lat": 24.134469,
+            "lng": 120.6825714
+        },
+        "place_id": "ChIJc1OUoAU9aTQRoiRrunp3FDU"
+    },
+    {
+        "name": "台灣陳沙茶火鍋",
+        "rating": 4.3,
+        "vicinity": "中區台灣大道一段81巷23號",
+        "user_ratings_total": 1731,
+        "location": {
+            "lat": 24.13858960000001,
+            "lng": 120.6831206
+        },
+        "place_id": "ChIJaX5AgBM9aTQRkogIgkNrlWE"
+    },
+    {
+        "name": "觀世音有機生活館",
+        "rating": 4.5,
+        "vicinity": "中區成功路22號",
+        "user_ratings_total": 119,
+        "location": {
+            "lat": 24.1386705,
+            "lng": 120.6855478
+        },
+        "place_id": "ChIJ-Wg3-hQ9aTQROIboxEspmyo"
+    },
+    {
+        "name": "三佳早點（中區民權店）",
+        "rating": 4.3,
+        "vicinity": "中區民權路80巷2號",
+        "user_ratings_total": 489,
+        "location": {
+            "lat": 24.1376644,
+            "lng": 120.6806166
+        },
+        "place_id": "ChIJAQAAQBM9aTQRR9cfYqYhVgc"
+    },
+    {
+        "name": "阿風獅牛肉麵",
+        "rating": 4.2,
+        "vicinity": "中區建國路101號",
+        "user_ratings_total": 316,
+        "location": {
+            "lat": 24.13633909999999,
+            "lng": 120.6829452
+        },
+        "place_id": "ChIJgbiMvBY9aTQRAOect3kSdXc"
+    },
+    {
+        "name": "麥味登台中站前店",
+        "rating": 4.5,
+        "vicinity": "中區建國路155號",
+        "user_ratings_total": 494,
+        "location": {
+            "lat": 24.1379866,
+            "lng": 120.685188
+        },
+        "place_id": "ChIJp5fvWBQ9aTQR4A-MoaFLQRw"
+    },
+    {
+        "name": "Hong Ya Hamburger",
+        "rating": 4.2,
+        "vicinity": "中區成功路12號",
+        "user_ratings_total": 170,
+        "location": {
+            "lat": 24.1383715,
+            "lng": 120.6858803
+        },
+        "place_id": "ChIJMeex_hQ9aTQRgvSTYS08d14"
+    },
+    {
+        "name": "五南親子館(台中店)",
+        "rating": 4.2,
+        "vicinity": "中區中山路6號",
+        "user_ratings_total": 139,
+        "location": {
+            "lat": 24.13762,
+            "lng": 120.683938
+        },
+        "place_id": "ChIJBy4tcBQ9aTQRWwhBHd6JWYk"
+    },
+    {
+        "name": "阿恆越南河粉",
+        "rating": 4.4,
+        "vicinity": "中區綠川西街183號",
+        "user_ratings_total": 54,
+        "location": {
+            "lat": 24.139997,
+            "lng": 120.684842
+        },
+        "place_id": "ChIJfbIjxxQ9aTQRO05wyNP3gPM"
+    },
+    {
+        "name": "花囍家日式料理製研所",
+        "rating": 4.6,
+        "vicinity": "東區大勇街30號",
+        "user_ratings_total": 1293,
+        "location": {
+            "lat": 24.1353079,
+            "lng": 120.6872276
+        },
+        "place_id": "ChIJvZZZ2BU9aTQRVzGdg5u9N2Y"
+    },
+    {
+        "name": "喬e歐爸爸手工披薩吃到飽",
+        "rating": 4.4,
+        "vicinity": "東區復興路四段186號10樓",
+        "user_ratings_total": 3030,
+        "location": {
+            "lat": 24.1357726,
+            "lng": 120.6877477
+        },
+        "place_id": "ChIJXdi1whU9aTQRQ9auwfDMB1U"
+    },
+    {
+        "name": "MO-MO-PARADISE 台中新時代牧場",
+        "rating": 4.5,
+        "vicinity": "東區復興路四段186號",
+        "user_ratings_total": 978,
+        "location": {
+            "lat": 24.1357726,
+            "lng": 120.6877477
+        },
+        "place_id": "ChIJeY0ulRU9aTQR5ipOGeHYtAk"
+    },
+    {
+        "name": "Fleet Street",
+        "rating": 4.2,
+        "vicinity": "中區民族路24號",
+        "user_ratings_total": 640,
+        "location": {
+            "lat": 24.1377642,
+            "lng": 120.6820012
+        },
+        "place_id": "ChIJf8gNlRM9aTQRZ-X3qLQchXs"
+    },
+    {
+        "name": "古早味三代肉粥",
+        "rating": 4.2,
+        "vicinity": "中區成功路90巷24號",
+        "user_ratings_total": 241,
+        "location": {
+            "lat": 24.1402605,
+            "lng": 120.6847206
+        },
+        "place_id": "ChIJAbSTxRQ9aTQRs9Z8ttI_Wc8"
+    },
+    {
+        "name": "Mo-mo-paradise 壽喜燒牧場(大魯閤廣場四樓)",
+        "rating": 4.5,
+        "vicinity": "東區和平街173巷31號",
+        "user_ratings_total": 38,
+        "location": {
+            "lat": 24.1351483,
+            "lng": 120.6876225
+        },
+        "place_id": "ChIJZfX95RU9aTQRVe9mgIi9Fp4"
+    },
+    {
+        "name": "易素緣",
+        "rating": 4.7,
+        "vicinity": "南區台中路40號",
+        "user_ratings_total": 311,
+        "location": {
+            "lat": 24.1346845,
+            "lng": 120.6826691
+        },
+        "place_id": "ChIJRdtHNhE9aTQRMsXKTqfOWNw"
+    },
+    {
+        "name": "久流麵攤",
+        "rating": 4.3,
+        "vicinity": "中區公園路2-3號",
+        "user_ratings_total": 1222,
+        "location": {
+            "lat": 24.14162779999999,
+            "lng": 120.6852848
+        },
+        "place_id": "ChIJxfm3JGs9aTQRGLpiVmS7Y6Y"
+    },
+    {
+        "name": "灶咖底家（原有家食堂）（開放內用）",
+        "rating": 4.1,
+        "vicinity": "東區復興路四段171號",
+        "user_ratings_total": 171,
+        "location": {
+            "lat": 24.1361134,
+            "lng": 120.6866337
+        },
+        "place_id": "ChIJDzA7yRU9aTQReBKMhg0lHvY"
+    },
+    {
+        "name": "德利麵食館",
+        "rating": 4.5,
+        "vicinity": "中區繼光街129號",
+        "user_ratings_total": 577,
+        "location": {
+            "lat": 24.1403224,
+            "lng": 120.6838605
+        },
+        "place_id": "ChIJEVRspRQ9aTQR6GoCJOKZ-so"
+    },
+    {
+        "name": "斐得 米蘭手工PIZZA專賣店",
+        "rating": 4.7,
+        "vicinity": "西區民權路53巷3-1號",
+        "user_ratings_total": 754,
+        "location": {
+            "lat": 24.1364153,
+            "lng": 120.6809457
+        },
+        "place_id": "ChIJfQ_m1xM9aTQRDPilU9riJuU"
+    },
+    {
+        "name": "葉家虱目魚",
+        "rating": 4.3,
+        "vicinity": "中區成功路106號",
+        "user_ratings_total": 174,
+        "location": {
+            "lat": 24.140065,
+            "lng": 120.6839381
+        },
+        "place_id": "ChIJ53YUoxQ9aTQRMVBbkD-iKjc"
+    },
+    {
+        "name": "手做鬆餅",
+        "rating": 4.5,
+        "vicinity": "西區民權路65號",
+        "user_ratings_total": 61,
+        "location": {
+            "lat": 24.13703469999999,
+            "lng": 120.6807925
+        },
+        "place_id": "ChIJkc160hM9aTQRQOIuuMG1xiw"
+    }
+]
