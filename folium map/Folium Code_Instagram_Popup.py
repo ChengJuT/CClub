@@ -59,7 +59,7 @@ for index, row in df.iterrows():
     name = row["Location"]
     insta_post = row["Post_url"] + "/"
     website = row["Post_url"]
-    directions = row["Post_url"]
+    directions = "https://www.google.com/maps/search/?api=1&query=" + name #連結到Google地圖搜尋結果
     popup = Create_Popup(name, insta_post, website, directions)
     # print(row["Location_coord"]) #只要呼叫pandas欄位名稱就可以取得數值
     folium.Marker(row["Location_coord"],           #要標記地點的座標
