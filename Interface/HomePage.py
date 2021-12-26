@@ -7,6 +7,7 @@ Created on Thu Dec  9 18:37:49 2021
 """
 
 import wx
+import wx.html as html
 import wx.html2
 
 # Hiiii
@@ -47,7 +48,7 @@ class HomepagePanel(wx.Panel):
         self.panel_box.Add(self.text, 1, wx.ALIGN_CENTER_HOＲIZONTAL|wx.ALL, int(imgSize[1]/3 - 3))
       
 
-        self.dialog = HTML_frame2(self, -1)
+       
         
         
         nButts = 0;
@@ -84,26 +85,27 @@ class HomepagePanel(wx.Panel):
         
     def SelectArea(self, event):
         butt = event.GetEventObject()
-        self.dialog.browser.LoadURL(MAPS[AREA[butt.Label]])
+        #self.dialog.browser.LoadURL(MAPS[AREA[butt.Label]])
+        self.dialog = HTML_frame(self, -1)
+        self.dialog.htmlViewer.LoadPage(MAPS[AREA[butt.Label]])
         self.dialog.title = butt.Label
         self.dialog.Show();
-'''
+
 class HTML_frame(wx.Frame):
-    def __init__(self, title, webPage):
+    def __init__(self,  *args, **kwds):
         super().__init__(None)
-        self.SetTitle(title)
         
         self.panel_box = wx.BoxSizer(wx.VERTICAL)
         
         txt_style = wx.VSCROLL|wx.HSCROLL|wx.TE_READONLY|wx.BORDER_SIMPLE
         self.htmlViewer = html.HtmlWindow(self, -1, size=(300, 150), style=txt_style)
-        self.htmlViewer.LoadPage(webPage)
+        #self.htmlViewer.LoadPage(webPage)
         self.panel_box.Add(self.htmlViewer,1, wx.EXPAND, 1)
         
-        self.Show()
-        self.Layout()
-        self.Refresh()
- '''
+        #self.Show()
+        #self.Layout()
+        #self.Refresh()
+
 class HTML_frame2(wx.Frame): 
   def __init__(self, *args, **kwds): 
     wx.Dialog.__init__(self, *args, **kwds) 
