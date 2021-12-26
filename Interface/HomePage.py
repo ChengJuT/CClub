@@ -18,9 +18,9 @@ AREA = {
 
 
 MAPS = {
-        0 : "file:///Users/LiamTsai/Documents/Github/CClub/CClub/Interface/map.html",
-        1 : "https://www.google.com/",
-        2 : "https://www.youtube.com/watch?v=3AvnZ_Wt47s",
+        0 : "file:///Users/LiamTsai/Documents/Github/CClub/CClub/folium_map/xmas_map1.html" ,
+        1 : "file:///Users/LiamTsai/Documents/Github/CClub/CClub/folium_map/xmas_map2.html" ,
+        2 : "file:///Users/LiamTsai/Documents/Github/CClub/CClub/folium_map/xmas_map3.html" ,
         } 
 
 windowSize = (400,300)
