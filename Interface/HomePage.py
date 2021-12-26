@@ -7,29 +7,20 @@ Created on Thu Dec  9 18:37:49 2021
 """
 
 import wx
-import wx.html as html
-import wx.html2 as html2
+import wx.html2
 
 # Hiiii
 AREA = {
-        "Taipei" : 0,
-        "New Taiper City" : 1,
-        "Other" : 2,
-        "AAAA" : 3,
-        "MASJFI" : 4,
-        "c" : 5,
-        "d" : 6
+        "北部" : 0,
+        "中部" : 1,
+        "南部" : 2,
         }
 
 
 MAPS = {
         0 : "file:///Users/LiamTsai/Documents/Github/CClub/CClub/Interface/map.html",
         1 : "https://www.google.com/",
-        2 : "file:///Users/LiamTsai/Documents/Github/CClub/CClub/Interface/map.html",
-        3 : "file:///Users/LiamTsai/Documents/Github/CClub/CClub/Interface/map.html",
-        4 : "https://www.youtube.com/watch?v=3AvnZ_Wt47s",
-        5 : "file:///Users/LiamTsai/Documents/Github/CClub/CClub/Interface/map.html",
-        6 : "file:///Users/LiamTsai/Documents/Github/CClub/CClub/Interface/map.html",
+        2 : "https://www.youtube.com/watch?v=3AvnZ_Wt47s",
         } 
 
 windowSize = (400,300)
@@ -73,15 +64,16 @@ class HomepagePanel(wx.Panel):
                 self.areaButt_box = wx.BoxSizer(wx.HORIZONTAL)
                 self.panel_box.Add(self.areaButt_box, 1, flag = wx.EXPAND|wx.BOTTOM, border = 10)
                 nButts = 0
-            butt = wx.Button(self, label = area_name, size = (self.GetSize()[0]//3, 10 ))
+            butt = wx.Button(self, label = area_name, size = (self.GetSize()[0]//3, 100 ))
             self.area_butts.append(butt)
             butt.Bind(wx.EVT_BUTTON, self.SelectArea)
             
             self.areaButt_box.Add(butt, 1, flag = wx.EXPAND|wx.ALL, border = 5)
             nButts += 1
+        # Fill empty buttons
         if(nButts < nButtsPerRow):
             for i in range(nButtsPerRow - nButts):
-                butt = wx.Button(self, label = "", size = (self.GetSize()[0]//3, 10 ))
+                butt = wx.Button(self, label = "", size = (self.GetSize()[0]//3, 100 ))
                 self.areaButt_box.Add(butt, 1, flag = wx.EXPAND|wx.ALL, border = 5)
                 butt.Disable()
             
@@ -112,7 +104,7 @@ class HTML_frame(wx.Frame):
         self.Layout()
         self.Refresh()
  '''
-class HTML_frame2(wx.Dialog): 
+class HTML_frame2(wx.Frame): 
   def __init__(self, *args, **kwds): 
     wx.Dialog.__init__(self, *args, **kwds) 
     sizer = wx.BoxSizer(wx.VERTICAL) 
