@@ -1,0 +1,310 @@
+[
+    {
+        "name": "逢甲養機場",
+        "rating": 4.1,
+        "vicinity": "西屯區西安街167號",
+        "user_ratings_total": 1548,
+        "location": {
+            "lat": 24.181797,
+            "lng": 120.644607
+        },
+        "place_id": "ChIJzWPRyiIWaTQRW71Y2uHVYeA"
+    },
+    {
+        "name": "Cafe Buddha 佈達咖啡",
+        "rating": 4.2,
+        "vicinity": "西屯區文華路永新巷7號",
+        "user_ratings_total": 439,
+        "location": {
+            "lat": 24.1767077,
+            "lng": 120.645479
+        },
+        "place_id": "ChIJV_KoLiIWaTQREpgzStF7vPo"
+    },
+    {
+        "name": "小西藏",
+        "rating": 4.3,
+        "vicinity": "西屯區慶和街2號",
+        "user_ratings_total": 1272,
+        "location": {
+            "lat": 24.175309,
+            "lng": 120.64681
+        },
+        "place_id": "ChIJJXgObyEWaTQRod-VjGejpJk"
+    },
+    {
+        "name": "Mr.38 咖哩美食餐廳（逢甲店）",
+        "rating": 4.5,
+        "vicinity": "西屯區至善路212號",
+        "user_ratings_total": 3948,
+        "location": {
+            "lat": 24.1770776,
+            "lng": 120.6433493
+        },
+        "place_id": "ChIJswvWAyIWaTQRDKTlw7VyLjE"
+    },
+    {
+        "name": "三號創意料理廚房",
+        "rating": 4.7,
+        "vicinity": "西屯區福星路526巷3號",
+        "user_ratings_total": 238,
+        "location": {
+            "lat": 24.1767052,
+            "lng": 120.6450434
+        },
+        "place_id": "ChIJj-XSICIWaTQRX_JgJ4ppSoA"
+    },
+    {
+        "name": "激旨燒き鳥Gekiuma Yakitori 台灣總店",
+        "rating": 4.2,
+        "vicinity": "西屯區文華路150巷號18號",
+        "user_ratings_total": 2345,
+        "location": {
+            "lat": 24.1830783,
+            "lng": 120.6466695
+        },
+        "place_id": "ChIJhYGC5TwWaTQRtFw0QBzL44s"
+    },
+    {
+        "name": "大甲芋頭城",
+        "rating": 4.1,
+        "vicinity": "461巷2-2號, 福星路, 西屯區",
+        "user_ratings_total": 839,
+        "location": {
+            "lat": 24.1778084,
+            "lng": 120.6453544
+        },
+        "place_id": "ChIJB55rSSIWaTQRsoxtMvwPzWE"
+    },
+    {
+        "name": "心蛋餅",
+        "rating": 4.3,
+        "vicinity": "西屯區逢甲路26號",
+        "user_ratings_total": 443,
+        "location": {
+            "lat": 24.178998,
+            "lng": 120.645526
+        },
+        "place_id": "ChIJA9XiVSIWaTQRgKmNOUDLals"
+    },
+    {
+        "name": "98義大利PASTA",
+        "rating": 4.3,
+        "vicinity": "西屯區文華路永新巷南二弄16號",
+        "user_ratings_total": 288,
+        "location": {
+            "lat": 24.1763756,
+            "lng": 120.6450908
+        },
+        "place_id": "ChIJFapBiCEWaTQRj5i2akBld3U"
+    },
+    {
+        "name": "逢甲GiGi電競館 x 樓下 LouXia (餐廳)",
+        "rating": 4.3,
+        "vicinity": "西屯區逢甲路20巷37號B1",
+        "user_ratings_total": 552,
+        "location": {
+            "lat": 24.180025,
+            "lng": 120.645581
+        },
+        "place_id": "ChIJTSLi4yIWaTQRhhtA7W3i3JU"
+    },
+    {
+        "name": "吉品鐵板燒-台中逢甲福星店",
+        "rating": 4.2,
+        "vicinity": "西屯區福星路570號",
+        "user_ratings_total": 930,
+        "location": {
+            "lat": 24.1752724,
+            "lng": 120.6461383
+        },
+        "place_id": "ChIJ87qjdiEWaTQRQGKlucVrXmc"
+    },
+    {
+        "name": "那個鍋 - 逢甲総本鋪",
+        "rating": 4.2,
+        "vicinity": "西屯區福星路522號",
+        "user_ratings_total": 2008,
+        "location": {
+            "lat": 24.1768659,
+            "lng": 120.645009
+        },
+        "place_id": "ChIJl1POJSIWaTQRUX12GlO5tS0"
+    },
+    {
+        "name": "現烤活蝦",
+        "rating": 4.5,
+        "vicinity": "台中市西屯區",
+        "user_ratings_total": 2,
+        "location": {
+            "lat": 24.1764553,
+            "lng": 120.6465159
+        },
+        "place_id": "ChIJA4Wk0CMWaTQRuAFFoa-pRu0"
+    },
+    {
+        "name": "鶯越式泰式美食",
+        "rating": 4.2,
+        "vicinity": "西屯區文華路20-9號",
+        "user_ratings_total": 107,
+        "location": {
+            "lat": 24.1765792,
+            "lng": 120.6472142
+        },
+        "place_id": "ChIJ-3LAHnE9aTQR8PW1AgE84eI"
+    },
+    {
+        "name": "小寶泡菜醬料雞排",
+        "rating": 4.2,
+        "vicinity": "西屯區文華路5巷3號",
+        "user_ratings_total": 164,
+        "location": {
+            "lat": 24.175452,
+            "lng": 120.644767
+        },
+        "place_id": "ChIJabq5nCEWaTQRZSVQ9u5lTTY"
+    },
+    {
+        "name": "南洋廚坊",
+        "rating": 4.6,
+        "vicinity": "西屯區福上巷278號",
+        "user_ratings_total": 703,
+        "location": {
+            "lat": 24.1751533,
+            "lng": 120.6455858
+        },
+        "place_id": "ChIJQbXSON8XaTQRkylBZSjU1H8"
+    },
+    {
+        "name": "Mini布朗",
+        "rating": 4.1,
+        "vicinity": "西屯區西屯路二段284之11號",
+        "user_ratings_total": 534,
+        "location": {
+            "lat": 24.1774317,
+            "lng": 120.6427219
+        },
+        "place_id": "ChIJq0c7qRgWaTQRrpG1LxZI8Pg"
+    },
+    {
+        "name": "逢甲滑蛋三明治壽司早餐店",
+        "rating": 4.3,
+        "vicinity": "西屯區文華路79號",
+        "user_ratings_total": 24,
+        "location": {
+            "lat": 24.1781114,
+            "lng": 120.646392
+        },
+        "place_id": "ChIJGxR4uiMWaTQRJf0X7IjRArw"
+    },
+    {
+        "name": "逢甲滑蛋早餐店",
+        "rating": 4.4,
+        "vicinity": "西屯區文華路96巷2號",
+        "user_ratings_total": 111,
+        "location": {
+            "lat": 24.1778183,
+            "lng": 120.6466185
+        },
+        "place_id": "ChIJO6jKuyMWaTQRx7DLkedn7fk"
+    },
+    {
+        "name": "開心-手作豆干",
+        "rating": 5,
+        "vicinity": "西屯區文華路71號",
+        "user_ratings_total": 1,
+        "location": {
+            "lat": 24.1776434,
+            "lng": 120.6464271
+        },
+        "place_id": "ChIJndektyMWaTQRyGY2tNAIYKI"
+    },
+    {
+        "name": "豫春園麵食館",
+        "rating": 4.2,
+        "vicinity": "西屯區西安街198號",
+        "user_ratings_total": 371,
+        "location": {
+            "lat": 24.1818467,
+            "lng": 120.6460841
+        },
+        "place_id": "ChIJw9BJ1DwWaTQRt1X_2Q7928E"
+    },
+    {
+        "name": "幸福月台",
+        "rating": 4.4,
+        "vicinity": "西屯區文華路203號",
+        "user_ratings_total": 102,
+        "location": {
+            "lat": 24.1819551,
+            "lng": 120.6462527
+        },
+        "place_id": "ChIJ6y440TwWaTQRw8sqcqqT2y8"
+    },
+    {
+        "name": "米嵐義大利麵",
+        "rating": 4.1,
+        "vicinity": "西屯區西安街180號",
+        "user_ratings_total": 158,
+        "location": {
+            "lat": 24.1818104,
+            "lng": 120.6456733
+        },
+        "place_id": "ChIJ3VgDKz0WaTQR64n-QCZkz7M"
+    },
+    {
+        "name": "蜜方 Sweet Cube",
+        "rating": 5,
+        "vicinity": "71 號 C1-, No. 2, 文華路, 西屯區",
+        "user_ratings_total": 3,
+        "location": {
+            "lat": 24.176664,
+            "lng": 120.645557
+        },
+        "place_id": "ChIJndektyMWaTQRg54jpLCabL8"
+    },
+    {
+        "name": "腦子有丼",
+        "rating": 4.3,
+        "vicinity": "西屯區文華路207號號",
+        "user_ratings_total": 361,
+        "location": {
+            "lat": 24.1822676,
+            "lng": 120.6462584
+        },
+        "place_id": "ChIJGQHh2TwWaTQRUp5Uh-H5ZdI"
+    },
+    {
+        "name": "阿宏東山鴨頭",
+        "rating": 4.1,
+        "vicinity": "西屯區福星路542號",
+        "user_ratings_total": 108,
+        "location": {
+            "lat": 24.1762831,
+            "lng": 120.6451615
+        },
+        "place_id": "ChIJz33BJyIWaTQR4E7pDv4-YX0"
+    },
+    {
+        "name": "HUN 貳",
+        "rating": 4.5,
+        "vicinity": "西屯區文華路217-8號",
+        "user_ratings_total": 2979,
+        "location": {
+            "lat": 24.1827554,
+            "lng": 120.6461151
+        },
+        "place_id": "ChIJ5Rdy2TwWaTQRB3PbEfioKjc"
+    },
+    {
+        "name": "⿊輪美",
+        "rating": 4.8,
+        "vicinity": "西屯區文華路10-11號福星路文華路口",
+        "user_ratings_total": 1516,
+        "location": {
+            "lat": 24.1757529,
+            "lng": 120.6454455
+        },
+        "place_id": "ChIJFUzYUj0WaTQRR5S54yyslO0"
+    }
+]

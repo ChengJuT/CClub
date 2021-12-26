@@ -1,0 +1,321 @@
+[
+    {
+        "name": "forchetta 餐廳",
+        "rating": 4.3,
+        "vicinity": "西屯區惠中六街15號2樓",
+        "user_ratings_total": 628,
+        "location": {
+            "lat": 24.1610893,
+            "lng": 120.6421895
+        },
+        "place_id": "ChIJzfKkoc6rQjQRID55C2256D4"
+    },
+    {
+        "name": "鼎泰豐 台中店",
+        "rating": 4.4,
+        "vicinity": "西屯區台灣大道三段251號號B2",
+        "user_ratings_total": 5739,
+        "location": {
+            "lat": 24.1647444,
+            "lng": 120.6446365
+        },
+        "place_id": "ChIJ-dpApYw9aTQRX86lrWrtxa0"
+    },
+    {
+        "name": "屋馬燒肉中港店",
+        "rating": 4.4,
+        "vicinity": "西屯區台灣大道三段300號",
+        "user_ratings_total": 7853,
+        "location": {
+            "lat": 24.1657555,
+            "lng": 120.6445358
+        },
+        "place_id": "ChIJ5Yg_mJU9aTQRa2Tfk_cWz8M"
+    },
+    {
+        "name": "Chili's Grill & Bar 美式休閒餐廳 - 臺中老虎城",
+        "rating": 4.4,
+        "vicinity": "西屯區河南路三段120號2樓",
+        "user_ratings_total": 1106,
+        "location": {
+            "lat": 24.164165,
+            "lng": 120.6381258
+        },
+        "place_id": "ChIJYZlZMPI9aTQRx1Nk-Op1EWo"
+    },
+    {
+        "name": "饗食天堂 台中店",
+        "rating": 4.2,
+        "vicinity": "11樓, Top City 大遠百, No. 251號, 台灣大道三段, 西屯區",
+        "user_ratings_total": 4817,
+        "location": {
+            "lat": 24.1637002,
+            "lng": 120.6446167
+        },
+        "place_id": "ChIJKxSaqYw9aTQRxTVZinpm6lI"
+    },
+    {
+        "name": "Nagi豚骨拉麵 凪 - 台中店",
+        "rating": 4.5,
+        "vicinity": "西屯區河南路三段120號3樓",
+        "user_ratings_total": 2561,
+        "location": {
+            "lat": 24.164083,
+            "lng": 120.638128
+        },
+        "place_id": "ChIJYZlZMPI9aTQRedJq3sCSdKw"
+    },
+    {
+        "name": "台中乾杯 中港店",
+        "rating": 4.3,
+        "vicinity": "西屯區台灣大道三段301號13樓",
+        "user_ratings_total": 1210,
+        "location": {
+            "lat": 24.1652119,
+            "lng": 120.6439377
+        },
+        "place_id": "ChIJEz3zvCwWaTQRD7xGYug3Kjo"
+    },
+    {
+        "name": "丸亀製麵 新光三越台中中港店 烏龍麵餐廳",
+        "rating": 4.2,
+        "vicinity": "西屯區台灣大道三段301號12F No",
+        "user_ratings_total": 587,
+        "location": {
+            "lat": 24.1652572,
+            "lng": 120.6437083
+        },
+        "place_id": "ChIJ0S5_sIw9aTQR0D52SrukzzI"
+    },
+    {
+        "name": "四季彩日本料理",
+        "rating": 4.2,
+        "vicinity": "西屯區惠中二街38號",
+        "user_ratings_total": 378,
+        "location": {
+            "lat": 24.1629143,
+            "lng": 120.6436893
+        },
+        "place_id": "ChIJBZ6YPI09aTQRXO8l5kBm9e4"
+    },
+    {
+        "name": "瓦城泰國料理 - 台中三越店",
+        "rating": 4.2,
+        "vicinity": "西屯區台灣大道三段301號10樓",
+        "user_ratings_total": 882,
+        "location": {
+            "lat": 24.1647673,
+            "lng": 120.6434748
+        },
+        "place_id": "ChIJacBApYw9aTQR9cEeJo8NA50"
+    },
+    {
+        "name": "台中僑園飯店",
+        "rating": 4.1,
+        "vicinity": "西屯區惠中路一段111號",
+        "user_ratings_total": 3391,
+        "location": {
+            "lat": 24.1599805,
+            "lng": 120.6438893
+        },
+        "place_id": "ChIJ82hOpZI9aTQRkwpOTmw18pw"
+    },
+    {
+        "name": "21風味館 台中大遠百門市",
+        "rating": 4.2,
+        "vicinity": "12 No. 251號, 台灣大道三段, 西屯區",
+        "user_ratings_total": 388,
+        "location": {
+            "lat": 24.1643149,
+            "lng": 120.6444958
+        },
+        "place_id": "ChIJP6kpaYw9aTQRyBfRpSHNhLY"
+    },
+    {
+        "name": "Cafe at ALESSI Store - 台中店",
+        "rating": 4.2,
+        "vicinity": "台中大遠百8樓, No. 251號, 台灣大道三段, 西屯区",
+        "user_ratings_total": 156,
+        "location": {
+            "lat": 24.1637002,
+            "lng": 120.6446167
+        },
+        "place_id": "ChIJ24uGm_4VaTQRSVZ0D5x_6kw"
+    },
+    {
+        "name": "大戶屋 台中老虎城店",
+        "rating": 4.4,
+        "vicinity": "3f, No. 120號, 河南路三段, 西屯區",
+        "user_ratings_total": 834,
+        "location": {
+            "lat": 24.1642474,
+            "lng": 120.6381239
+        },
+        "place_id": "ChIJvZlZMPI9aTQR-Drg8kTXBm0"
+    },
+    {
+        "name": "時時香 RICE BAR - 台中三越店",
+        "rating": 4.2,
+        "vicinity": "西屯區台灣大道三段301號9樓",
+        "user_ratings_total": 1184,
+        "location": {
+            "lat": 24.1647673,
+            "lng": 120.6434748
+        },
+        "place_id": "ChIJ0S5_sIw9aTQRuX0WW8RxT98"
+    },
+    {
+        "name": "樂檸漢堡 THEFREEN BURGER 台中朝馬虎城門市",
+        "rating": 4.3,
+        "vicinity": "西屯區河南路三段120號3樓",
+        "user_ratings_total": 697,
+        "location": {
+            "lat": 24.1644309,
+            "lng": 120.6376545
+        },
+        "place_id": "ChIJYZlZMPI9aTQRVFXFhqrLjsw"
+    },
+    {
+        "name": "Hokkaido Ramen Santouka 拉面山头火",
+        "rating": 4.6,
+        "vicinity": "西屯區市政北七路15號",
+        "user_ratings_total": 21,
+        "location": {
+            "lat": 24.1637658,
+            "lng": 120.6444452
+        },
+        "place_id": "ChIJuxCH54w9aTQRdNCcIbkKCWI"
+    },
+    {
+        "name": "301 Boulevard 301大道",
+        "rating": 4.2,
+        "vicinity": "西屯區台灣大道三段301號號 9 樓",
+        "user_ratings_total": 409,
+        "location": {
+            "lat": 24.165257,
+            "lng": 120.643708
+        },
+        "place_id": "ChIJ0S5_sIw9aTQRl890OiQmY9s"
+    },
+    {
+        "name": "吉比鮮釀餐廳 - 台中店",
+        "rating": 4.3,
+        "vicinity": "西屯區台灣大道三段301號新光三越中港店13F",
+        "user_ratings_total": 862,
+        "location": {
+            "lat": 24.1652572,
+            "lng": 120.6437083
+        },
+        "place_id": "ChIJ_ZPbyYw9aTQRjhxl9z0jkLI"
+    },
+    {
+        "name": "新堂洞 韓式料理",
+        "rating": 5,
+        "vicinity": "台中市西屯區臺灣大道三段251號",
+        "user_ratings_total": 1,
+        "location": {
+            "lat": 24.1648631,
+            "lng": 120.6447169
+        },
+        "place_id": "ChIJuaGhlow9aTQRIqsAbDpAuRs"
+    },
+    {
+        "name": "DNA Spanish Restaurant",
+        "rating": 4.5,
+        "vicinity": "西屯區惠中七街36號1樓",
+        "user_ratings_total": 140,
+        "location": {
+            "lat": 24.1613512,
+            "lng": 120.6418787
+        },
+        "place_id": "ChIJl6VdPOI9aTQRnWntM95KDY0"
+    },
+    {
+        "name": "富彩軒 私房粵菜",
+        "rating": 4.2,
+        "vicinity": "西屯區市政北二路60號3 樓",
+        "user_ratings_total": 434,
+        "location": {
+            "lat": 24.1611598,
+            "lng": 120.641649
+        },
+        "place_id": "ChIJeRVNXu09aTQRPv-alOwrj1c"
+    },
+    {
+        "name": "KR Prime Steak House",
+        "rating": 4.6,
+        "vicinity": "西屯區市政北二路52號",
+        "user_ratings_total": 324,
+        "location": {
+            "lat": 24.1608398,
+            "lng": 120.6419403
+        },
+        "place_id": "ChIJRe0fBSU9aTQRPDTabjgPCbo"
+    },
+    {
+        "name": "KOI® PLUS (七期店)",
+        "rating": 4.6,
+        "vicinity": "西屯區市政北二路50號2樓",
+        "user_ratings_total": 786,
+        "location": {
+            "lat": 24.1607835,
+            "lng": 120.6420252
+        },
+        "place_id": "ChIJy3FxTYo9aTQR3w8l4Rx2qVI"
+    },
+    {
+        "name": "圓砌鴛鴦升降鍋物 台中老虎城 全台第一升降鍋物 台中鍋物 台中火鍋 火鍋推薦 老虎城聚餐推薦餐廳 老虎城餐廳",
+        "rating": 4.9,
+        "vicinity": "西屯區河南路三段120號B1",
+        "user_ratings_total": 309,
+        "location": {
+            "lat": 24.1640826,
+            "lng": 120.6381276
+        },
+        "place_id": "ChIJ9VR_EQs9aTQR2UmTzyoPLeI"
+    },
+    {
+        "name": "大心新泰式麵食 - 台中新光三越店",
+        "rating": 4.1,
+        "vicinity": "西屯區台灣大道三段301號12F",
+        "user_ratings_total": 444,
+        "location": {
+            "lat": 24.1648092,
+            "lng": 120.6432316
+        },
+        "place_id": "ChIJ0S5_sIw9aTQRcpcE6FoRLkI"
+    },
+    {
+        "name": "燒肉風間 Kazama | 老虎城店",
+        "rating": 4.8,
+        "vicinity": "7樓, No. 120-1號, 河南路三段, 西屯區",
+        "user_ratings_total": 504,
+        "location": {
+            "lat": 24.1642474,
+            "lng": 120.6381239
+        },
+        "place_id": "ChIJY0xrX9U9aTQRapO9juBEeAI"
+    },
+    {
+        "name": "紅龜桂 義台料理 Red beetle quei and Pizza",
+        "rating": 4.7,
+        "vicinity": "西屯區河南路三段120號3樓",
+        "user_ratings_total": 52,
+        "location": {
+            "lat": 24.1642474,
+            "lng": 120.6381239
+        },
+        "place_id": "ChIJU09SDyI9aTQRUqXJpOTiOSE"
+    },
+    {
+        "name": "六堆伙房台中老虎城店",
+        "rating": 4.7,
+        "vicinity": "西屯區河南路三段120號3樓",
+        "user_ratings_total": 1210,
+        "location": {
+            "lat": 24.1642474,
+            "lng": 120.6381239
+        },
+        "place_id": "ChIJRd0NfgQ9aTQRr_q82Jj_Q3o"
+    }
+]

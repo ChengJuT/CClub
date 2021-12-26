@@ -1,0 +1,288 @@
+[
+    {
+        "name": "IKEA宜家家居 桃園店",
+        "rating": 4.3,
+        "vicinity": "中壢區高鐵站前東路一段1號",
+        "user_ratings_total": 23298,
+        "location": {
+            "lat": 25.0129593,
+            "lng": 121.2175658
+        },
+        "place_id": "ChIJBZCtvxQfaDQRCbE-csEoZjU"
+    },
+    {
+        "name": "Big Pier 大碼頭美式手抓海鮮餐廳",
+        "rating": 4.2,
+        "vicinity": "中壢區春德路189號GLORIA OUTLETS華泰名品城606室",
+        "user_ratings_total": 1734,
+        "location": {
+            "lat": 25.0162028,
+            "lng": 121.214573
+        },
+        "place_id": "ChIJpX-ZBAchaDQRKbGQS1k8irw"
+    },
+    {
+        "name": "自如清庵",
+        "rating": 4.4,
+        "vicinity": "大園區領航北路三段223號",
+        "user_ratings_total": 89,
+        "location": {
+            "lat": 25.017929,
+            "lng": 121.212957
+        },
+        "place_id": "ChIJQ2ArzAYhaDQRCBpUBWEniAQ"
+    },
+    {
+        "name": "IKEA瑞典餐廳 桃園店",
+        "rating": 4.2,
+        "vicinity": "中壢區高鐵站前東路一段1號5樓",
+        "user_ratings_total": 978,
+        "location": {
+            "lat": 25.0130423,
+            "lng": 121.2176772
+        },
+        "place_id": "ChIJD5KtvxQfaDQR_eYa8OJOZM0"
+    },
+    {
+        "name": "Mövenpick Café-莫凡彼桃園華泰店",
+        "rating": 4.5,
+        "vicinity": "中壢區春德路189號1F之532",
+        "user_ratings_total": 2365,
+        "location": {
+            "lat": 25.0150957,
+            "lng": 121.2144367
+        },
+        "place_id": "ChIJxXmvrQchaDQR6oKS-9TC0Uk"
+    },
+    {
+        "name": "TGI FRIDAYS 星期五美式餐廳 華泰餐廳",
+        "rating": 4.1,
+        "vicinity": "中壢區春德路189號",
+        "user_ratings_total": 1656,
+        "location": {
+            "lat": 25.0148961,
+            "lng": 121.2133679
+        },
+        "place_id": "ChIJNRdtRgYhaDQRPCSaYQ1L9qQ"
+    },
+    {
+        "name": "友Q牛肉麵",
+        "rating": 4.4,
+        "vicinity": "大園區春德路162號",
+        "user_ratings_total": 135,
+        "location": {
+            "lat": 25.0161584,
+            "lng": 121.2130842
+        },
+        "place_id": "ChIJAVikdH4haDQRwdb8XZx1JCY"
+    },
+    {
+        "name": "武三碗不過岡",
+        "rating": 4.8,
+        "vicinity": "中壢區春德路107號新光影城一樓",
+        "user_ratings_total": 215,
+        "location": {
+            "lat": 25.0167718,
+            "lng": 121.2134139
+        },
+        "place_id": "ChIJ1bhu3zUhaDQR9FYnAvhTUeY"
+    },
+    {
+        "name": "日日蔗HISATOUKIBI形象概念店",
+        "rating": 4.6,
+        "vicinity": "大園區春德路",
+        "user_ratings_total": 13,
+        "location": {
+            "lat": 25.0154823,
+            "lng": 121.2129035
+        },
+        "place_id": "ChIJV3IpiNkhaDQR0EthRTenfMA"
+    },
+    {
+        "name": "這一小鍋 桃園新光青埔店",
+        "rating": 4.2,
+        "vicinity": "大園區春德路107號",
+        "user_ratings_total": 575,
+        "location": {
+            "lat": 25.0167833,
+            "lng": 121.213385
+        },
+        "place_id": "ChIJSVgrr7chaDQRI7EWIYzb384"
+    },
+    {
+        "name": "MAGiC TOUCH点爭鮮-青埔新光店",
+        "rating": 4.7,
+        "vicinity": "中壢區春德路107號2樓",
+        "user_ratings_total": 997,
+        "location": {
+            "lat": 25.0168058,
+            "lng": 121.2133776
+        },
+        "place_id": "ChIJfSMZyUghaDQRBqh5-eyPrEI"
+    },
+    {
+        "name": "點點心台灣 桃園新光影城店",
+        "rating": 4.5,
+        "vicinity": "大園區春德路107號",
+        "user_ratings_total": 494,
+        "location": {
+            "lat": 25.0168085,
+            "lng": 121.2133467
+        },
+        "place_id": "ChIJ26HfOrAhaDQRHPwPM08rRT8"
+    },
+    {
+        "name": "大河屋 燒肉丼 串燒-華泰名品城店",
+        "rating": 4.8,
+        "vicinity": "3樓, No. 189號, 春德路, 中坜市",
+        "user_ratings_total": 449,
+        "location": {
+            "lat": 25.0145382,
+            "lng": 121.2127909
+        },
+        "place_id": "ChIJRwelzOMhaDQRi0SKxH_JC88"
+    },
+    {
+        "name": "JK STUDIO 義法餐廳│桃園餐廳│戰斧牛排│戰斧豬排│約會│聚餐│包場",
+        "rating": 4.4,
+        "vicinity": "3樓, No. 189號, 春德路, 中坜市",
+        "user_ratings_total": 146,
+        "location": {
+            "lat": 25.0145382,
+            "lng": 121.2127909
+        },
+        "place_id": "ChIJU5O7CGIhaDQRyqFYG-1urH0"
+    },
+    {
+        "name": "印度皇宮Indian Palace(華泰店)",
+        "rating": 4.1,
+        "vicinity": "中壢區春德路189號2樓美食街GLORIA OUTLETS華泰名品城",
+        "user_ratings_total": 154,
+        "location": {
+            "lat": 25.0145382,
+            "lng": 121.2127909
+        },
+        "place_id": "ChIJp-G_OkIhaDQRSitLQ74iWtA"
+    },
+    {
+        "name": "涓豆腐 桃園華泰店",
+        "rating": 4.1,
+        "vicinity": "3樓, No. 189號, 春德路, 中壢區",
+        "user_ratings_total": 1271,
+        "location": {
+            "lat": 25.0145382,
+            "lng": 121.2127909
+        },
+        "place_id": "ChIJjQKaPwYhaDQRX26oft48oRk"
+    },
+    {
+        "name": "秋風軒鍋物 華泰店",
+        "rating": 4.5,
+        "vicinity": "中壢區春德路159號華泰名品城三期",
+        "user_ratings_total": 1571,
+        "location": {
+            "lat": 25.0174772,
+            "lng": 121.2156759
+        },
+        "place_id": "ChIJU2wbEmIhaDQRkv6UJ2Id8OE"
+    },
+    {
+        "name": "Texas Roadhouse 德州鮮切牛排 新光店",
+        "rating": 4.4,
+        "vicinity": "中壢區春德路107號2樓",
+        "user_ratings_total": 321,
+        "location": {
+            "lat": 25.0168902,
+            "lng": 121.212709
+        },
+        "place_id": "ChIJMcIyd9MhaDQR9JFOwLwHTWA"
+    },
+    {
+        "name": "炸鷄大獅桃捷高鐵A18站",
+        "rating": 4.5,
+        "vicinity": "中壢區高鐵北路一段5號桃園捷運高鐵A18站2F",
+        "user_ratings_total": 51,
+        "location": {
+            "lat": 25.0135226,
+            "lng": 121.2139402
+        },
+        "place_id": "ChIJ5SWqD5whaDQRzgmKfm51Ucs"
+    },
+    {
+        "name": "好Hea茶檔 餐廳/美食/青埔/小吃/outlet/華泰/ikea/cozzi/新光影城",
+        "rating": 5,
+        "vicinity": "大園區皇家七街1號",
+        "user_ratings_total": 81,
+        "location": {
+            "lat": 25.0153997,
+            "lng": 121.2122001
+        },
+        "place_id": "ChIJGxjKXZwhaDQR6xL6EjXXV9c"
+    },
+    {
+        "name": "Cozzi Market 逸·市集",
+        "rating": 4.3,
+        "vicinity": "中壢區春德路101號2樓",
+        "user_ratings_total": 401,
+        "location": {
+            "lat": 25.0178407,
+            "lng": 121.2137302
+        },
+        "place_id": "ChIJr6u135khaDQRxrBvbxt57EY"
+    },
+    {
+        "name": "Yi Hui Xuan 逸薈軒",
+        "rating": 4.2,
+        "vicinity": "中壢區春德路101號2樓",
+        "user_ratings_total": 308,
+        "location": {
+            "lat": 25.0178407,
+            "lng": 121.2137302
+        },
+        "place_id": "ChIJna5It-chaDQRc6QTvUi0dXE"
+    },
+    {
+        "name": "Blu Bar",
+        "rating": 5,
+        "vicinity": "中壢區春德路101號3樓",
+        "user_ratings_total": 1658,
+        "location": {
+            "lat": 25.0178407,
+            "lng": 121.2137302
+        },
+        "place_id": "ChIJmaxzF2MhaDQRgiK1BVKZHg0"
+    },
+    {
+        "name": "合點壽司 がってん寿司 華泰店",
+        "rating": 4.1,
+        "vicinity": "中壢區春德路189號1000號櫃位",
+        "user_ratings_total": 2263,
+        "location": {
+            "lat": 25.0177236,
+            "lng": 121.2162838
+        },
+        "place_id": "ChIJfeYYT80haDQR_y6D20nN6wI"
+    },
+    {
+        "name": "O PÃO歐包烘焙坊 -(必吃麵包吐司、養生健康蔬食餐 人氣推薦 、外帶自取、外送到府)",
+        "rating": 4.8,
+        "vicinity": "中壢區春德路283號",
+        "user_ratings_total": 129,
+        "location": {
+            "lat": 25.0142371,
+            "lng": 121.2112749
+        },
+        "place_id": "ChIJVxbHoVUhaDQRIk0lxs79rEE"
+    },
+    {
+        "name": "食客多-中式餐點",
+        "rating": 4.9,
+        "vicinity": "中壢區春德路281號",
+        "user_ratings_total": 13,
+        "location": {
+            "lat": 25.0143377,
+            "lng": 121.2111483
+        },
+        "place_id": "ChIJ8ZybD0ghaDQR0ZGLNJ-WIUc"
+    }
+]

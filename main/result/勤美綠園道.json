@@ -1,0 +1,398 @@
+[
+    {
+        "name": "赤坂屋日式炭烤燒肉店",
+        "rating": 4.5,
+        "vicinity": "西區公益路79號",
+        "user_ratings_total": 568,
+        "location": {
+            "lat": 24.1507643,
+            "lng": 120.6672573
+        },
+        "place_id": "ChIJwz9JbXY9aTQRuCS1hVE_2dc"
+    },
+    {
+        "name": "出一張嘴",
+        "rating": 4.1,
+        "vicinity": "西區公益路77號",
+        "user_ratings_total": 2337,
+        "location": {
+            "lat": 24.1507418,
+            "lng": 120.6674613
+        },
+        "place_id": "ChIJJf9YbXY9aTQRJ58cOlLTmYU"
+    },
+    {
+        "name": "泓品牛排館",
+        "rating": 4.1,
+        "vicinity": "北區台灣大道二段340號B1",
+        "user_ratings_total": 743,
+        "location": {
+            "lat": 24.1538632,
+            "lng": 120.6661232
+        },
+        "place_id": "ChIJD-BG2Hc9aTQR5rQRvuIJefs"
+    },
+    {
+        "name": "HOT SHOCK 哈燒庫美式餐廳",
+        "rating": 4.5,
+        "vicinity": "西區向上北路109號",
+        "user_ratings_total": 1893,
+        "location": {
+            "lat": 24.1478292,
+            "lng": 120.6637882
+        },
+        "place_id": "ChIJ6T7asZ89aTQRCt62pUTyqrw"
+    },
+    {
+        "name": "TGI FRIDAYS 星期五美式餐廳 英才餐廳",
+        "rating": 4.1,
+        "vicinity": "西區台灣大道二段239之1號",
+        "user_ratings_total": 1452,
+        "location": {
+            "lat": 24.1526211,
+            "lng": 120.6664088
+        },
+        "place_id": "ChIJlde_LXY9aTQR32PtofU_ILM"
+    },
+    {
+        "name": "路德威手工啤酒餐廳-戶外婚禮/婚禮場地/外燴/buffet",
+        "rating": 4.4,
+        "vicinity": "西區公益路36號",
+        "user_ratings_total": 1095,
+        "location": {
+            "lat": 24.1509838,
+            "lng": 120.6682471
+        },
+        "place_id": "ChIJ-bxHYXY9aTQR4CQnmqauvWU"
+    },
+    {
+        "name": "藍洞意式廚房",
+        "rating": 4.1,
+        "vicinity": "西區向上北路127號",
+        "user_ratings_total": 1009,
+        "location": {
+            "lat": 24.1476974,
+            "lng": 120.6634555
+        },
+        "place_id": "ChIJUdWtqJ89aTQRFOqOGP23NAQ"
+    },
+    {
+        "name": "Offer Oh昨日花卷 跨界好食｜台中必吃餐廳｜台中勤美餐廳｜台中聚餐餐廳｜台中商業午餐｜2021台中西區餐廳｜台中必吃餐廳｜台中西區美食｜台中聚餐餐廳推薦2021",
+        "rating": 4.4,
+        "vicinity": "西區忠誠街91號",
+        "user_ratings_total": 2949,
+        "location": {
+            "lat": 24.1524772,
+            "lng": 120.6599502
+        },
+        "place_id": "ChIJ_epP95s9aTQRaV8GFG-ZE9E"
+    },
+    {
+        "name": "書報館",
+        "rating": 4.2,
+        "vicinity": "西區美村路一段83巷9號",
+        "user_ratings_total": 769,
+        "location": {
+            "lat": 24.1531577,
+            "lng": 120.6622889
+        },
+        "place_id": "ChIJncYVRJw9aTQRF8Rh-50fpHo"
+    },
+    {
+        "name": "MO-MO-PARADISE 台中勤美牧場",
+        "rating": 4.7,
+        "vicinity": "西區公益路68號B1",
+        "user_ratings_total": 4322,
+        "location": {
+            "lat": 24.151429,
+            "lng": 120.663657
+        },
+        "place_id": "ChIJjb5QQpk9aTQRzw5rSev0gBA"
+    },
+    {
+        "name": "龐德羅莎牛排沙拉(中港店)",
+        "rating": 4.1,
+        "vicinity": "西區台灣大道二段320號",
+        "user_ratings_total": 1978,
+        "location": {
+            "lat": 24.1536144,
+            "lng": 120.6665513
+        },
+        "place_id": "ChIJ15Ppz3c9aTQREd6McNkCLhQ"
+    },
+    {
+        "name": "陶板屋 台中台灣大道店",
+        "rating": 4.2,
+        "vicinity": "2樓, No. 406號, 台灣大道二段, 西區",
+        "user_ratings_total": 2335,
+        "location": {
+            "lat": 24.1553393,
+            "lng": 120.664574
+        },
+        "place_id": "ChIJLWhUe509aTQRV_o-KEwGdJI"
+    },
+    {
+        "name": "金色三麥 台中勤美店",
+        "rating": 4.3,
+        "vicinity": "西區公益路68號B1",
+        "user_ratings_total": 2174,
+        "location": {
+            "lat": 24.1514011,
+            "lng": 120.6635423
+        },
+        "place_id": "ChIJVTYG2p09aTQRI3VmyQ2-J_w"
+    },
+    {
+        "name": "Roundabout Café 圓環咖啡 - 台中西區咖啡/勤美草悟道早午餐",
+        "rating": 4.5,
+        "vicinity": "西區大和路73號",
+        "user_ratings_total": 372,
+        "location": {
+            "lat": 24.1500217,
+            "lng": 120.6674764
+        },
+        "place_id": "ChIJW4IKxHU9aTQRwdz4a29L5Zc"
+    },
+    {
+        "name": "Restaurant Go.老吳的西洋料理",
+        "rating": 4.2,
+        "vicinity": "號1樓, No. 26, 忠誠街, 西區",
+        "user_ratings_total": 491,
+        "location": {
+            "lat": 24.1527604,
+            "lng": 120.662404
+        },
+        "place_id": "ChIJEZUpRpw9aTQRQ7azy0iHTYw"
+    },
+    {
+        "name": "波西塔諾義式小館-Positano PASTA",
+        "rating": 4.4,
+        "vicinity": "西區忠誠街108號",
+        "user_ratings_total": 438,
+        "location": {
+            "lat": 24.15260989999999,
+            "lng": 120.6593135
+        },
+        "place_id": "ChIJ2YQT75s9aTQREf2IqBgYW-4"
+    },
+    {
+        "name": "法義風味人文餐廳",
+        "rating": 4.5,
+        "vicinity": "西區大仁街1號",
+        "user_ratings_total": 616,
+        "location": {
+            "lat": 24.1521086,
+            "lng": 120.6672944
+        },
+        "place_id": "ChIJl_8kOHY9aTQRzthqDSpHaEQ"
+    },
+    {
+        "name": "IL Volo pizza義波羅窯烤披薩",
+        "rating": 4.2,
+        "vicinity": "西區中興街106號",
+        "user_ratings_total": 405,
+        "location": {
+            "lat": 24.147722,
+            "lng": 120.663139
+        },
+        "place_id": "ChIJ4-fZp589aTQRI9sS8QMlVzk"
+    },
+    {
+        "name": "九冠樓石頭火鍋",
+        "rating": 4.1,
+        "vicinity": "西區美村路一段231號",
+        "user_ratings_total": 442,
+        "location": {
+            "lat": 24.1492075,
+            "lng": 120.6619226
+        },
+        "place_id": "ChIJcSqt5549aTQRzdcCNZ_O8SQ"
+    },
+    {
+        "name": "小蒙牛頂級麻辣養身火鍋hotpot 台中中港店",
+        "rating": 4.5,
+        "vicinity": "西區台灣大道二段285號",
+        "user_ratings_total": 3289,
+        "location": {
+            "lat": 24.1529958,
+            "lng": 120.6664443
+        },
+        "place_id": "ChIJ-RmyLHY9aTQRpq5lQyD-pMo"
+    },
+    {
+        "name": "自立商店 燒烤居酒屋",
+        "rating": 4.4,
+        "vicinity": "西區中美街426號",
+        "user_ratings_total": 577,
+        "location": {
+            "lat": 24.153157,
+            "lng": 120.660375
+        },
+        "place_id": "ChIJ5TYOdZw9aTQRknEy7jSR9fo"
+    },
+    {
+        "name": "嘉義阡涼麵",
+        "rating": 4.4,
+        "vicinity": "西區公正路189號",
+        "user_ratings_total": 266,
+        "location": {
+            "lat": 24.1489439,
+            "lng": 120.6602907
+        },
+        "place_id": "ChIJddu3Kp89aTQRQcriBGhoei0"
+    },
+    {
+        "name": "將將燒日式料理",
+        "rating": 4.6,
+        "vicinity": "西區美村路一段236巷3號",
+        "user_ratings_total": 707,
+        "location": {
+            "lat": 24.1483392,
+            "lng": 120.661329
+        },
+        "place_id": "ChIJnfJ1JJ89aTQRVlCbdyZu8II"
+    },
+    {
+        "name": "東引釣客野生海產店",
+        "rating": 4.2,
+        "vicinity": "西區向上路一段96-2號",
+        "user_ratings_total": 459,
+        "location": {
+            "lat": 24.1468297,
+            "lng": 120.6639389
+        },
+        "place_id": "ChIJX1drvZ89aTQRgzHfNNMfDoo"
+    },
+    {
+        "name": "藤吉串燒",
+        "rating": 4.4,
+        "vicinity": "西區公正路116號",
+        "user_ratings_total": 101,
+        "location": {
+            "lat": 24.149169,
+            "lng": 120.6625095
+        },
+        "place_id": "ChIJC4ui-p49aTQRCPQUodHB3LM"
+    },
+    {
+        "name": "大豐野菜館（滷菩提）素食/蔬食",
+        "rating": 4.4,
+        "vicinity": "西區向上北路184號",
+        "user_ratings_total": 1521,
+        "location": {
+            "lat": 24.147996,
+            "lng": 120.6611677
+        },
+        "place_id": "ChIJT7n0QJY9aTQRBkdtd9Ho6kQ"
+    },
+    {
+        "name": "松葉壽司",
+        "rating": 4.3,
+        "vicinity": "西區中美街333號",
+        "user_ratings_total": 695,
+        "location": {
+            "lat": 24.1502877,
+            "lng": 120.6600828
+        },
+        "place_id": "ChIJz5oANZk9aTQRhqAGsoMGBRw"
+    },
+    {
+        "name": "阿川鵝肉",
+        "rating": 4.1,
+        "vicinity": "西區中美街242號",
+        "user_ratings_total": 805,
+        "location": {
+            "lat": 24.148504,
+            "lng": 120.6602638
+        },
+        "place_id": "ChIJv9weLZ89aTQRkHIwuYEo9_4"
+    },
+    {
+        "name": "築地",
+        "rating": 4.3,
+        "vicinity": "西區大和路61號",
+        "user_ratings_total": 180,
+        "location": {
+            "lat": 24.1499503,
+            "lng": 120.6676425
+        },
+        "place_id": "ChIJ939P_ps9aTQRNwkUiAkehBg"
+    },
+    {
+        "name": "小園迷你火鍋—Since1991",
+        "rating": 4.3,
+        "vicinity": "西區美村路一段234號",
+        "user_ratings_total": 612,
+        "location": {
+            "lat": 24.1485268,
+            "lng": 120.661498
+        },
+        "place_id": "ChIJawjVHp89aTQR7WzJe0DJatA"
+    },
+    {
+        "name": "丸松精緻套餐",
+        "rating": 4.1,
+        "vicinity": "西區向上路一段48-1號",
+        "user_ratings_total": 233,
+        "location": {
+            "lat": 24.1469202,
+            "lng": 120.6660045
+        },
+        "place_id": "ChIJfZkDr3Y9aTQRMXSuzUpfMOg"
+    },
+    {
+        "name": "吳留手串燒居酒屋-台中店 /人氣美食 /推薦 /台中美食 /特色餐廳",
+        "rating": 4.6,
+        "vicinity": "西區中興街111號",
+        "user_ratings_total": 2062,
+        "location": {
+            "lat": 24.1485201,
+            "lng": 120.6629246
+        },
+        "place_id": "ChIJIfQz_p49aTQRw8gxRVt6O3w"
+    },
+    {
+        "name": "金苑茶餐廳",
+        "rating": 4.5,
+        "vicinity": "西區公益路147號",
+        "user_ratings_total": 2791,
+        "location": {
+            "lat": 24.150632,
+            "lng": 120.664519
+        },
+        "place_id": "ChIJn_IldZ49aTQRHsEuz6RHSO8"
+    },
+    {
+        "name": "攜旺cafe台中寵物餐廳&浪浪中途學校",
+        "rating": 4.7,
+        "vicinity": "西區公益路117-3號",
+        "user_ratings_total": 546,
+        "location": {
+            "lat": 24.1507449,
+            "lng": 120.6656591
+        },
+        "place_id": "ChIJLYru_p09aTQRm4m3hog93zM"
+    },
+    {
+        "name": "石研室 台式爆炒石頭火鍋 - 台中勤美店",
+        "rating": 4.4,
+        "vicinity": "西區公正路99號",
+        "user_ratings_total": 3278,
+        "location": {
+            "lat": 24.1489246,
+            "lng": 120.6631676
+        },
+        "place_id": "ChIJxRNsV549aTQRMlFzobkvCzw"
+    },
+    {
+        "name": "18%雞蛋糕勤美本舖",
+        "rating": 4.1,
+        "vicinity": "西區美村路一段152號美村本舖",
+        "user_ratings_total": 49,
+        "location": {
+            "lat": 24.150475,
+            "lng": 120.661365
+        },
+        "place_id": "ChIJR6mo5Wg9aTQRlcbqzz8SIO8"
+    }
+]

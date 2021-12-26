@@ -1,0 +1,354 @@
+[
+    {
+        "name": "赤炭汽油桶炭火燒肉",
+        "rating": 4.3,
+        "vicinity": "左營區富民路436號",
+        "user_ratings_total": 1480,
+        "location": {
+            "lat": 22.6667187,
+            "lng": 120.3056062
+        },
+        "place_id": "ChIJuQbypQUFbjQRWRC4qMIDR0o"
+    },
+    {
+        "name": "陶板屋 高雄裕誠店",
+        "rating": 4.1,
+        "vicinity": "左營區裕誠路475號2F",
+        "user_ratings_total": 2181,
+        "location": {
+            "lat": 22.6656865,
+            "lng": 120.3038963
+        },
+        "place_id": "ChIJWTK9OgQFbjQRbv4edJeFiEE"
+    },
+    {
+        "name": "鼎泰豐 高雄店",
+        "rating": 4.4,
+        "vicinity": "左營區博愛二路777號B1",
+        "user_ratings_total": 3608,
+        "location": {
+            "lat": 22.66950779999999,
+            "lng": 120.3022247
+        },
+        "place_id": "ChIJvQjssggFbjQR6G1KnjmmeaU"
+    },
+    {
+        "name": "翠園粵菜餐廳 巨蛋店",
+        "rating": 4.1,
+        "vicinity": "左營區博愛二路767號9F",
+        "user_ratings_total": 1195,
+        "location": {
+            "lat": 22.66960079999999,
+            "lng": 120.3021105
+        },
+        "place_id": "ChIJX4vcCgYFbjQRRfkEPI9OM14"
+    },
+    {
+        "name": "CoCo壹番屋 漢神巨蛋店",
+        "rating": 4.4,
+        "vicinity": "左營區博愛二路777號4樓",
+        "user_ratings_total": 378,
+        "location": {
+            "lat": 22.6695926,
+            "lng": 120.302286
+        },
+        "place_id": "ChIJBzROpwgFbjQRJr7ywZnuq6U"
+    },
+    {
+        "name": "RÊVE 黑浮咖啡 高雄巨蛋店",
+        "rating": 4.4,
+        "vicinity": "鼓山區文忠路2號",
+        "user_ratings_total": 3515,
+        "location": {
+            "lat": 22.665316,
+            "lng": 120.302302
+        },
+        "place_id": "ChIJWcZ0vQYFbjQRUmE7h67Bx4s"
+    },
+    {
+        "name": "漢來蔬食 巨蛋店",
+        "rating": 4.3,
+        "vicinity": "左營區博愛二路777號5樓",
+        "user_ratings_total": 1022,
+        "location": {
+            "lat": 22.6695981,
+            "lng": 120.3022949
+        },
+        "place_id": "ChIJvQjssggFbjQRgVDT6R8GVT0"
+    },
+    {
+        "name": "世奇商旅",
+        "rating": 4.4,
+        "vicinity": "左營區裕誠路450號",
+        "user_ratings_total": 1353,
+        "location": {
+            "lat": 22.665949,
+            "lng": 120.304858
+        },
+        "place_id": "ChIJi8PHSwQFbjQRLte7s8r2RTs"
+    },
+    {
+        "name": "王品牛排高雄博愛店",
+        "rating": 4.4,
+        "vicinity": "左營區博愛二路360-2號",
+        "user_ratings_total": 1187,
+        "location": {
+            "lat": 22.6649313,
+            "lng": 120.3036891
+        },
+        "place_id": "ChIJ4VDqHgQFbjQRBrSSrK0A5sU"
+    },
+    {
+        "name": "中堂燒肉 富民店",
+        "rating": 4.2,
+        "vicinity": "左營區富民路426號",
+        "user_ratings_total": 189,
+        "location": {
+            "lat": 22.6663583,
+            "lng": 120.3054554
+        },
+        "place_id": "ChIJdU7brQUFbjQR9LXT229oPzk"
+    },
+    {
+        "name": "阿惠越南小吃",
+        "rating": 4.2,
+        "vicinity": "左營區新庄仔路588號",
+        "user_ratings_total": 540,
+        "location": {
+            "lat": 22.6694444,
+            "lng": 120.3058333
+        },
+        "place_id": "ChIJG2sLdw8FbjQRLW8yEM54lFs"
+    },
+    {
+        "name": "東方宴餐廳",
+        "rating": 4.1,
+        "vicinity": "左營區博愛三路111號",
+        "user_ratings_total": 1312,
+        "location": {
+            "lat": 22.6734602,
+            "lng": 120.3045302
+        },
+        "place_id": "ChIJNZuN6m4FbjQRLKCgHxUXZMc"
+    },
+    {
+        "name": "韓福香",
+        "rating": 4.1,
+        "vicinity": "鼓山區文忠路44號",
+        "user_ratings_total": 330,
+        "location": {
+            "lat": 22.6652562,
+            "lng": 120.3008749
+        },
+        "place_id": "ChIJhWRu2wYFbjQR97xkMhPMUJs"
+    },
+    {
+        "name": "hot 7鐵板燒 高雄漢神巨蛋店",
+        "rating": 4.1,
+        "vicinity": "左營區博愛二路777號4F",
+        "user_ratings_total": 809,
+        "location": {
+            "lat": 22.6695926,
+            "lng": 120.302286
+        },
+        "place_id": "ChIJHzlWBAYFbjQRKI0zYq5bxvA"
+    },
+    {
+        "name": "漢來海港餐廳 巨蛋店",
+        "rating": 4.1,
+        "vicinity": "左營區博愛二路777號5樓",
+        "user_ratings_total": 2969,
+        "location": {
+            "lat": 22.6695926,
+            "lng": 120.302286
+        },
+        "place_id": "ChIJPQdsrggFbjQRflZx7WUqNlQ"
+    },
+    {
+        "name": "丸亀製麵 高雄漢神百貨巨蛋店 烏龍麵餐廳",
+        "rating": 4.6,
+        "vicinity": "左營區博愛二路777號號 B1",
+        "user_ratings_total": 708,
+        "location": {
+            "lat": 22.6697552,
+            "lng": 120.3023717
+        },
+        "place_id": "ChIJzyUUpggFbjQRBa1ZpMwSYfI"
+    },
+    {
+        "name": "Fun Tower日式可麗餅（漢神巨蛋）",
+        "rating": 4.4,
+        "vicinity": "777號B1F, 博爱二路, 左营区",
+        "user_ratings_total": 430,
+        "location": {
+            "lat": 22.66993889999999,
+            "lng": 120.3023985
+        },
+        "place_id": "ChIJvQD-YgMFbjQRRGPdsJ0KY9U"
+    },
+    {
+        "name": "Manniu慢牛 創意牛肉料理",
+        "rating": 4.2,
+        "vicinity": "左營區至真路252號",
+        "user_ratings_total": 1053,
+        "location": {
+            "lat": 22.6720562,
+            "lng": 120.30233
+        },
+        "place_id": "ChIJH-l32AgFbjQRfjCcJeEf1IY"
+    },
+    {
+        "name": "東風新意會館/高雄五星級蔬食婚宴/蔬食外燴送",
+        "rating": 4.3,
+        "vicinity": "左營區博愛三路50巷6號",
+        "user_ratings_total": 610,
+        "location": {
+            "lat": 22.6714641,
+            "lng": 120.304685
+        },
+        "place_id": "ChIJFRCLIA8FbjQR1Yojp-7s4Eo"
+    },
+    {
+        "name": "宸 碳火三明治",
+        "rating": 4.2,
+        "vicinity": "左營區新庄仔路233-2號",
+        "user_ratings_total": 56,
+        "location": {
+            "lat": 22.6699433,
+            "lng": 120.3057737
+        },
+        "place_id": "ChIJXZu6BBAFbjQRrmIVxrWL7iA"
+    },
+    {
+        "name": "MEDIUM & CO. 質介社會",
+        "rating": 4.3,
+        "vicinity": "左營區文上路38號",
+        "user_ratings_total": 41,
+        "location": {
+            "lat": 22.6718714,
+            "lng": 120.3013163
+        },
+        "place_id": "ChIJD6AM5AgFbjQR_o9sRIsn6Q0"
+    },
+    {
+        "name": "German Soul Kaohsiung 德意所",
+        "rating": 4.7,
+        "vicinity": "左營區南屏路293巷18號",
+        "user_ratings_total": 505,
+        "location": {
+            "lat": 22.6690174,
+            "lng": 120.2993626
+        },
+        "place_id": "ChIJlcWDxgcFbjQRrXUzMdFitdU"
+    },
+    {
+        "name": "好聚。所 HIRAETH CAFE",
+        "rating": 4.2,
+        "vicinity": "鼓山區裕誠路1035號2樓",
+        "user_ratings_total": 433,
+        "location": {
+            "lat": 22.6656745,
+            "lng": 120.3015472
+        },
+        "place_id": "ChIJs17H6wYFbjQR1Wtbghqx9EQ"
+    },
+    {
+        "name": "黃金屋",
+        "rating": 5,
+        "vicinity": "高雄市左營區南屏路、裕誠路口",
+        "user_ratings_total": 1,
+        "location": {
+            "lat": 22.6658768,
+            "lng": 120.3000559
+        },
+        "place_id": "ChIJqSqCUgAFbjQRdhKS2bkPIA4"
+    },
+    {
+        "name": "大戶屋 漢神巨蛋店",
+        "rating": 4.1,
+        "vicinity": "左營區博愛二路777號4樓",
+        "user_ratings_total": 347,
+        "location": {
+            "lat": 22.6695926,
+            "lng": 120.302286
+        },
+        "place_id": "ChIJvQjssggFbjQRMkFkOZZH0kI"
+    },
+    {
+        "name": "漢來大飯店巨蛋會館-漢神巨蛋9樓",
+        "rating": 4.3,
+        "vicinity": "左營區博愛二路767號",
+        "user_ratings_total": 2249,
+        "location": {
+            "lat": 22.66960079999999,
+            "lng": 120.3021105
+        },
+        "place_id": "ChIJh4zcCgYFbjQR3zECH5zQ2qw"
+    },
+    {
+        "name": "瓦城泰國料理 - 高雄漢神巨蛋店",
+        "rating": 4.1,
+        "vicinity": "左營區博愛二路777號4樓",
+        "user_ratings_total": 353,
+        "location": {
+            "lat": 22.6700119,
+            "lng": 120.3030034
+        },
+        "place_id": "ChIJvQjssggFbjQRNguHk9ZZAec"
+    },
+    {
+        "name": "德藝小築 Deutsche Kuchen",
+        "rating": 4.5,
+        "vicinity": "左營區南屏路296號",
+        "user_ratings_total": 257,
+        "location": {
+            "lat": 22.6686813,
+            "lng": 120.2987898
+        },
+        "place_id": "ChIJgeielQcFbjQRJaxfyKnSFgc"
+    },
+    {
+        "name": "美食福滷鴨血",
+        "rating": 4.9,
+        "vicinity": "高雄市左營區南屏路與裕誠路交叉口",
+        "user_ratings_total": 12,
+        "location": {
+            "lat": 22.6659084,
+            "lng": 120.2999369
+        },
+        "place_id": "ChIJq6qqqpoEbjQRjXyuqE_Og_8"
+    },
+    {
+        "name": "張強建築師事務所",
+        "rating": 4.2,
+        "vicinity": "左營區博愛二路366號",
+        "user_ratings_total": 5,
+        "location": {
+            "lat": 22.665,
+            "lng": 120.303724
+        },
+        "place_id": "ChIJke71GAQFbjQRiPXJB0eqnTQ"
+    },
+    {
+        "name": "21風味館 漢神巨蛋門市",
+        "rating": 4.1,
+        "vicinity": "左營區博愛二路777號B1F",
+        "user_ratings_total": 121,
+        "location": {
+            "lat": 22.6695926,
+            "lng": 120.302286
+        },
+        "place_id": "ChIJG8oXyQMFbjQRkvpaDK-Z2Zc"
+    },
+    {
+        "name": "雪之國-炒冰捲-瑞豐店",
+        "rating": 4.5,
+        "vicinity": "號, No. 1128, 裕誠路, 鼓山區",
+        "user_ratings_total": 4,
+        "location": {
+            "lat": 22.6660856,
+            "lng": 120.2993797
+        },
+        "place_id": "ChIJmwc2FgcFbjQRIXRwXjizx74"
+    }
+]

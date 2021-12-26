@@ -1,0 +1,24 @@
+[
+    {
+        "name": "霸王羊肉爐399吃到飽 河南店",
+        "rating": 4.1,
+        "vicinity": "西屯區河南路二段126號",
+        "user_ratings_total": 33,
+        "location": {
+            "lat": 24.1761523,
+            "lng": 120.6592579
+        },
+        "place_id": "ChIJB00qukMXaTQRIVBBW5u30Xw"
+    },
+    {
+        "name": "麥當勞-台中河南二店",
+        "rating": 4.2,
+        "vicinity": "西屯區河南路二段186號",
+        "user_ratings_total": 92,
+        "location": {
+            "lat": 24.17641129999999,
+            "lng": 120.6525981
+        },
+        "place_id": "ChIJXfzLU3oXaTQRcHDFRgcQm9c"
+    }
+]
