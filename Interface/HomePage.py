@@ -10,7 +10,12 @@ import wx
 import wx.html as html
 import wx.html2
 
-# Hiiii
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+chrome_options = Options()
+chrome_options.add_experimental_option("detach", True) # Keep browser open
+
+
 AREA = {
         "北部" : 0,
         "中部" : 1,
@@ -85,12 +90,18 @@ class HomepagePanel(wx.Panel):
         
     def SelectArea(self, event):
         butt = event.GetEventObject()
-        #self.dialog.browser.LoadURL(MAPS[AREA[butt.Label]])
-        self.dialog = HTML_frame(self, -1)
-        self.dialog.htmlViewer.LoadPage(MAPS[AREA[butt.Label]])
+        
+        browser = webdriver.Chrome(chrome_options=chrome_options)
+        browser.get(MAPS[AREA[butt.Label]])
+        
+        '''
+        self.dialog = HTML_frame2(self, -1)
+        self.dialog.browser.LoadURL(MAPS[AREA[butt.Label]])
+        #self.dialog = HTML_frame(self, -1)
+        #self.dialog.htmlViewer.LoadPage(MAPS[AREA[butt.Label]])
         self.dialog.title = butt.Label
         self.dialog.Show();
-
+        '''
 class HTML_frame(wx.Frame):
     def __init__(self,  *args, **kwds):
         super().__init__(None)
