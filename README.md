@@ -23,7 +23,10 @@
 請執行 ./webscraping/Instagram_美食搜尋.py
 
 5. 介面呈現
-請執行 ./Folium map/Folium Code_Instagram_Popup.py 輸出最終的地圖標記
-開啟電腦終端 terminal/cmd 使用pythonw 執行 ./Interface/HomePage.py 已開啟介面
-e.g.
-pythonw ./Interface/HomePage.py
+	請執行 ./Folium map/Folium Code_Instagram_Popup.py 輸出最終的地圖標記
+	
+	開啟電腦終端 terminal/cmd 使用pythonw 執行 ./Interface/HomePage.py 以開啟介面
+	e.g.
+	pythonw ./Interface/HomePage.py
+	
+	line 20/27 的 AREA/MAPS 字典以增減按鈕數量和指定開啟的地圖html檔，系統會以每排三個按鈕的方式自動排列其位置
