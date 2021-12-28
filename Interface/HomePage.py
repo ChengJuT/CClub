@@ -12,6 +12,7 @@ import wx.html2
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from selenium.common.exceptions import WebDriverException
 chrome_options = Options()
 chrome_options.add_experimental_option("detach", True) # Keep browser open
 
@@ -54,8 +55,6 @@ class HomepagePanel(wx.Panel):
       
 
        
-        
-        
         nButts = 0;
         nButtsPerRow = 3;
         # Button container
@@ -88,11 +87,19 @@ class HomepagePanel(wx.Panel):
         self.Show()
         self.Hide()
         
+        
+        
     def SelectArea(self, event):
         butt = event.GetEventObject()
-        
-        browser = webdriver.Chrome(chrome_options=chrome_options)
-        browser.get(MAPS[AREA[butt.Label]])
+        if(not hasattr(self, 'browser')):
+            self.browser = webdriver.Chrome(chrome_options=chrome_options)
+        try:
+            self.browser.get(MAPS[AREA[butt.Label]])
+        except WebDriverException:
+            self.browser.quit()
+            self.browser = webdriver.Chrome(chrome_options=chrome_options)
+            self.browser.get(MAPS[AREA[butt.Label]])
+
         
         '''
         self.dialog = HTML_frame2(self, -1)

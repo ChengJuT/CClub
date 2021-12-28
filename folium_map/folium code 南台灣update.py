@@ -122,7 +122,7 @@ for index, row in df.iterrows():
     coord = row["Location_coord"].strip('()') 
     numlist = [float(n) for n in coord.split(",")]
     name = row["Location"]
-    insta_post = row["Post_url"] + "/"
+    insta_post = row["Post_url"]
     website = row["Post_url"]
     rating = row["rating"]
     directions = "https://www.google.com/maps/search/?api=1&query=" + name.replace(" ", "")

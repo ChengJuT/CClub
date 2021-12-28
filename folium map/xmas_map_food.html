@@ -1,0 +1,931 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_e95dbe3aff0e429499d6a59356355531 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_e95dbe3aff0e429499d6a59356355531" ></div>
+        
+</body>
+<script>    
+    
+            var map_e95dbe3aff0e429499d6a59356355531 = L.map(
+                "map_e95dbe3aff0e429499d6a59356355531",
+                {
+                    center: [25.0448, 121.5488],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12,
+                    zoomControl: true,
+                    preferCanvas: false,
+                    titles: "OpenStreetMap",
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_7df7e72941c74b4682d89227c8fb5b17 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 7, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_e95dbe3aff0e429499d6a59356355531);
+        
+    
+            var marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad = L.markerClusterGroup(
+                {}
+            );
+            map_e95dbe3aff0e429499d6a59356355531.addLayer(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var marker_8b6a2fa65cfc45f082b18b8df92e58ba = L.marker(
+                [25.0360953, 121.567219],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_3b921704c7144f7c91ff6391339624db = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_8b6a2fa65cfc45f082b18b8df92e58ba.setIcon(icon_3b921704c7144f7c91ff6391339624db);
+        
+    
+        var popup_0f727c858d3d481aad111f1ddc75a245 = L.popup({"maxWidth": 500});
+
+        
+            var html_cb4a2279b7f34d59b80c5a20d113c9a5 = $(`<div id="html_cb4a2279b7f34d59b80c5a20d113c9a5" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     欣葉日本料理信義新天地A11店                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.1                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/CNHJg9gDsdB//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/CNHJg9gDsdB/ target="_blank" title="欣葉日本料理信義新天地A11店 Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=欣葉日本料理信義新天地A11店 target="_blank" title="Directions to 欣葉日本料理信義新天地A11店">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to 欣葉日本料理信義新天地A11店                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_0f727c858d3d481aad111f1ddc75a245.setContent(html_cb4a2279b7f34d59b80c5a20d113c9a5);
+        
+
+        marker_8b6a2fa65cfc45f082b18b8df92e58ba.bindPopup(popup_0f727c858d3d481aad111f1ddc75a245)
+        ;
+
+        
+    
+    
+            marker_8b6a2fa65cfc45f082b18b8df92e58ba.bindTooltip(
+                `<div>
+                     欣葉日本料理信義新天地A11店
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1776f27ad8824290958ac2ab4c3850be = L.marker(
+                [25.0335715, 121.5649428],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_1b5b115c93104c6ca70d4e83adb09b66 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_1776f27ad8824290958ac2ab4c3850be.setIcon(icon_1b5b115c93104c6ca70d4e83adb09b66);
+        
+    
+        var popup_431b44dfad4d41f3b04796b67d9c1601 = L.popup({"maxWidth": 500});
+
+        
+            var html_3a183450afea40c790a9bacbc267aa10 = $(`<div id="html_3a183450afea40c790a9bacbc267aa10" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     隨意鳥地方101觀景餐廳求婚生日尾牙婚宴景觀夜景牛排餐廳推薦                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.1                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/CVkrkbRPygN//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/CVkrkbRPygN/ target="_blank" title="隨意鳥地方101觀景餐廳求婚生日尾牙婚宴景觀夜景牛排餐廳推薦 Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=隨意鳥地方101觀景餐廳求婚生日尾牙婚宴景觀夜景牛排餐廳推薦 target="_blank" title="Directions to 隨意鳥地方101觀景餐廳求婚生日尾牙婚宴景觀夜景牛排餐廳推薦">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to 隨意鳥地方101觀景餐廳求婚生日尾牙婚宴景觀夜景牛排餐廳推薦                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_431b44dfad4d41f3b04796b67d9c1601.setContent(html_3a183450afea40c790a9bacbc267aa10);
+        
+
+        marker_1776f27ad8824290958ac2ab4c3850be.bindPopup(popup_431b44dfad4d41f3b04796b67d9c1601)
+        ;
+
+        
+    
+    
+            marker_1776f27ad8824290958ac2ab4c3850be.bindTooltip(
+                `<div>
+                     隨意鳥地方101觀景餐廳求婚生日尾牙婚宴景觀夜景牛排餐廳推薦
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9eea970dcf394da9b5043b80d4093236 = L.marker(
+                [25.039633, 121.5678702],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_d4f08c33dd694528a803907df38c02dc = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_9eea970dcf394da9b5043b80d4093236.setIcon(icon_d4f08c33dd694528a803907df38c02dc);
+        
+    
+        var popup_801aac6fa29d42d0a88e1f0fd84d1a18 = L.popup({"maxWidth": 500});
+
+        
+            var html_b6ae270808994dde9e42d25ecdb1f5db = $(`<div id="html_b6ae270808994dde9e42d25ecdb1f5db" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     勞瑞斯牛肋排餐廳                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.3                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/B-J238opeyc//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/B-J238opeyc/ target="_blank" title="勞瑞斯牛肋排餐廳 Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=勞瑞斯牛肋排餐廳 target="_blank" title="Directions to 勞瑞斯牛肋排餐廳">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to 勞瑞斯牛肋排餐廳                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_801aac6fa29d42d0a88e1f0fd84d1a18.setContent(html_b6ae270808994dde9e42d25ecdb1f5db);
+        
+
+        marker_9eea970dcf394da9b5043b80d4093236.bindPopup(popup_801aac6fa29d42d0a88e1f0fd84d1a18)
+        ;
+
+        
+    
+    
+            marker_9eea970dcf394da9b5043b80d4093236.bindTooltip(
+                `<div>
+                     勞瑞斯牛肋排餐廳
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_98b8006e07ad4e4798db942aa76f58f5 = L.marker(
+                [25.0359879, 121.5667981],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_c31460c6caa34ec0b9955320f333a9b9 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_98b8006e07ad4e4798db942aa76f58f5.setIcon(icon_c31460c6caa34ec0b9955320f333a9b9);
+        
+    
+        var popup_b936fb7be0a149719924fea23bd469b5 = L.popup({"maxWidth": 500});
+
+        
+            var html_7d85f120bdaa4d9d8e5cee1efe68472b = $(`<div id="html_7d85f120bdaa4d9d8e5cee1efe68472b" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     PAUL法國保羅麵包新光三越信義A9店                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.1                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/CXtiBTKvhBf//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/CXtiBTKvhBf/ target="_blank" title="PAUL法國保羅麵包新光三越信義A9店 Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=PAUL法國保羅麵包新光三越信義A9店 target="_blank" title="Directions to PAUL法國保羅麵包新光三越信義A9店">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to PAUL法國保羅麵包新光三越信義A9店                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_b936fb7be0a149719924fea23bd469b5.setContent(html_7d85f120bdaa4d9d8e5cee1efe68472b);
+        
+
+        marker_98b8006e07ad4e4798db942aa76f58f5.bindPopup(popup_b936fb7be0a149719924fea23bd469b5)
+        ;
+
+        
+    
+    
+            marker_98b8006e07ad4e4798db942aa76f58f5.bindTooltip(
+                `<div>
+                     PAUL法國保羅麵包新光三越信義A9店
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_35ceabdfef1049e186508c8d510ba231 = L.marker(
+                [25.0354574, 121.5678596],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_8b4e196301f744f8995a8412e2b9634c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_35ceabdfef1049e186508c8d510ba231.setIcon(icon_8b4e196301f744f8995a8412e2b9634c);
+        
+    
+        var popup_619f8218420548b48c13f41999770794 = L.popup({"maxWidth": 500});
+
+        
+            var html_d0885317d27b4d1fb07c6609dea028b1 = $(`<div id="html_d0885317d27b4d1fb07c6609dea028b1" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     馬辣頂級麻辣鴛鴦火鍋信義店                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.4                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/CXr_6czgzjQ//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/CXr_6czgzjQ/ target="_blank" title="馬辣頂級麻辣鴛鴦火鍋信義店 Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=馬辣頂級麻辣鴛鴦火鍋信義店 target="_blank" title="Directions to 馬辣頂級麻辣鴛鴦火鍋信義店">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to 馬辣頂級麻辣鴛鴦火鍋信義店                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_619f8218420548b48c13f41999770794.setContent(html_d0885317d27b4d1fb07c6609dea028b1);
+        
+
+        marker_35ceabdfef1049e186508c8d510ba231.bindPopup(popup_619f8218420548b48c13f41999770794)
+        ;
+
+        
+    
+    
+            marker_35ceabdfef1049e186508c8d510ba231.bindTooltip(
+                `<div>
+                     馬辣頂級麻辣鴛鴦火鍋信義店
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_41fedbdf354240aa8c3d08503a084193 = L.marker(
+                [25.0383589, 121.5666138],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_b412820a6fc744cda87a2c72c678cd21 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_41fedbdf354240aa8c3d08503a084193.setIcon(icon_b412820a6fc744cda87a2c72c678cd21);
+        
+    
+        var popup_73beaf10e91d4654a4941b8fe2fa1006 = L.popup({"maxWidth": 500});
+
+        
+            var html_dafc304a5d464329bc10ee9ddd9fefb3 = $(`<div id="html_dafc304a5d464329bc10ee9ddd9fefb3" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     丸亀製麵新光三越台北信義A8店烏龍麵餐廳                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.2                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/CMjzPBiBina//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/CMjzPBiBina/ target="_blank" title="丸亀製麵新光三越台北信義A8店烏龍麵餐廳 Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=丸亀製麵新光三越台北信義A8店烏龍麵餐廳 target="_blank" title="Directions to 丸亀製麵新光三越台北信義A8店烏龍麵餐廳">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to 丸亀製麵新光三越台北信義A8店烏龍麵餐廳                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_73beaf10e91d4654a4941b8fe2fa1006.setContent(html_dafc304a5d464329bc10ee9ddd9fefb3);
+        
+
+        marker_41fedbdf354240aa8c3d08503a084193.bindPopup(popup_73beaf10e91d4654a4941b8fe2fa1006)
+        ;
+
+        
+    
+    
+            marker_41fedbdf354240aa8c3d08503a084193.bindTooltip(
+                `<div>
+                     丸亀製麵新光三越台北信義A8店烏龍麵餐廳
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_7e5429ebe0f04171a3ca497a4d7f1168 = L.marker(
+                [25.0352187, 121.5672369],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_700f194fb9294dc3a2cb73647253e87c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_7e5429ebe0f04171a3ca497a4d7f1168.setIcon(icon_700f194fb9294dc3a2cb73647253e87c);
+        
+    
+        var popup_2500196a501b4be395c983460f89db57 = L.popup({"maxWidth": 500});
+
+        
+            var html_41559585e9a84e4781e9aa75ce2eab86 = $(`<div id="html_41559585e9a84e4781e9aa75ce2eab86" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     BELLINIPastaPasta台北信義威秀店                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.3                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.openstreetmap.org/copyright//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.openstreetmap.org/copyright/ target="_blank" title="BELLINIPastaPasta台北信義威秀店 Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=BELLINIPastaPasta台北信義威秀店 target="_blank" title="Directions to BELLINIPastaPasta台北信義威秀店">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to BELLINIPastaPasta台北信義威秀店                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_2500196a501b4be395c983460f89db57.setContent(html_41559585e9a84e4781e9aa75ce2eab86);
+        
+
+        marker_7e5429ebe0f04171a3ca497a4d7f1168.bindPopup(popup_2500196a501b4be395c983460f89db57)
+        ;
+
+        
+    
+    
+            marker_7e5429ebe0f04171a3ca497a4d7f1168.bindTooltip(
+                `<div>
+                     BELLINIPastaPasta台北信義威秀店
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_675e83fac8f644bcab851fd72015c30d = L.marker(
+                [25.0382675, 121.5681767],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_79adebb2214e4c499fdfe15c80a4faa0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_675e83fac8f644bcab851fd72015c30d.setIcon(icon_79adebb2214e4c499fdfe15c80a4faa0);
+        
+    
+        var popup_a40788bf7db14cf09b41e6ba2b29169d = L.popup({"maxWidth": 500});
+
+        
+            var html_877985bd76304343aa4f92dac266ac60 = $(`<div id="html_877985bd76304343aa4f92dac266ac60" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     台北寒舍艾美酒店寒舍食譜                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.2                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/CXtLul0pF6l//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/CXtLul0pF6l/ target="_blank" title="台北寒舍艾美酒店寒舍食譜 Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=台北寒舍艾美酒店寒舍食譜 target="_blank" title="Directions to 台北寒舍艾美酒店寒舍食譜">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to 台北寒舍艾美酒店寒舍食譜                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_a40788bf7db14cf09b41e6ba2b29169d.setContent(html_877985bd76304343aa4f92dac266ac60);
+        
+
+        marker_675e83fac8f644bcab851fd72015c30d.bindPopup(popup_a40788bf7db14cf09b41e6ba2b29169d)
+        ;
+
+        
+    
+    
+            marker_675e83fac8f644bcab851fd72015c30d.bindTooltip(
+                `<div>
+                     台北寒舍艾美酒店寒舍食譜
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_f21c111f4cfb4606879b057a1779869f = L.marker(
+                [25.0355031, 121.56786],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_1553e3215de840538af5c91bbad81f29 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_f21c111f4cfb4606879b057a1779869f.setIcon(icon_1553e3215de840538af5c91bbad81f29);
+        
+    
+        var popup_9339c06bfa724c518203287c87951c71 = L.popup({"maxWidth": 500});
+
+        
+            var html_b450826e06e44df8b4cf3b46bc87fd36 = $(`<div id="html_b450826e06e44df8b4cf3b46bc87fd36" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     非常泰                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.4                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/CXYyUkwvPgf//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/CXYyUkwvPgf/ target="_blank" title="非常泰 Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=非常泰 target="_blank" title="Directions to 非常泰">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to 非常泰                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_9339c06bfa724c518203287c87951c71.setContent(html_b450826e06e44df8b4cf3b46bc87fd36);
+        
+
+        marker_f21c111f4cfb4606879b057a1779869f.bindPopup(popup_9339c06bfa724c518203287c87951c71)
+        ;
+
+        
+    
+    
+            marker_f21c111f4cfb4606879b057a1779869f.bindTooltip(
+                `<div>
+                     非常泰
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_e22c74fb0f3f44009b0273aee1ceff3e = L.marker(
+                [25.0385722, 121.5662876],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_c4388289715443b19b4d9d3a118330f8 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_e22c74fb0f3f44009b0273aee1ceff3e.setIcon(icon_c4388289715443b19b4d9d3a118330f8);
+        
+    
+        var popup_b639c436d4bb44daae2785215e1858aa = L.popup({"maxWidth": 500});
+
+        
+            var html_480eda7917154d43a84c9027ed91fdf6 = $(`<div id="html_480eda7917154d43a84c9027ed91fdf6" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     三井cuisineM                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.2                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/CXifeI9F6Tn//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/CXifeI9F6Tn/ target="_blank" title="三井cuisineM Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=三井cuisineM target="_blank" title="Directions to 三井cuisineM">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to 三井cuisineM                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_b639c436d4bb44daae2785215e1858aa.setContent(html_480eda7917154d43a84c9027ed91fdf6);
+        
+
+        marker_e22c74fb0f3f44009b0273aee1ceff3e.bindPopup(popup_b639c436d4bb44daae2785215e1858aa)
+        ;
+
+        
+    
+    
+            marker_e22c74fb0f3f44009b0273aee1ceff3e.bindTooltip(
+                `<div>
+                     三井cuisineM
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c18b601c39614e5fbae53dc3be1c2d4e = L.marker(
+                [25.0364054, 121.566685],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_f9e72c742d064213bd8885619f06fbbe = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_c18b601c39614e5fbae53dc3be1c2d4e.setIcon(icon_f9e72c742d064213bd8885619f06fbbe);
+        
+    
+        var popup_9f7c709ff89649f78de64598f209ab4f = L.popup({"maxWidth": 500});
+
+        
+            var html_45d449551d104568966de60185156416 = $(`<div id="html_45d449551d104568966de60185156416" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     兩班家韓式碳烤新光三越A9店                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.1                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/COf1M9brvAA//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/COf1M9brvAA/ target="_blank" title="兩班家韓式碳烤新光三越A9店 Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=兩班家韓式碳烤新光三越A9店 target="_blank" title="Directions to 兩班家韓式碳烤新光三越A9店">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to 兩班家韓式碳烤新光三越A9店                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_9f7c709ff89649f78de64598f209ab4f.setContent(html_45d449551d104568966de60185156416);
+        
+
+        marker_c18b601c39614e5fbae53dc3be1c2d4e.bindPopup(popup_9f7c709ff89649f78de64598f209ab4f)
+        ;
+
+        
+    
+    
+            marker_c18b601c39614e5fbae53dc3be1c2d4e.bindTooltip(
+                `<div>
+                     兩班家韓式碳烤新光三越A9店
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d46ab9891cd243228deeed8875d7242b = L.marker(
+                [25.0391196, 121.5658],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_1236950be7494a31b97f30c9a7191ef9 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_d46ab9891cd243228deeed8875d7242b.setIcon(icon_1236950be7494a31b97f30c9a7191ef9);
+        
+    
+        var popup_dc5d16602f9b474ea8376bcfa560885c = L.popup({"maxWidth": 500});
+
+        
+            var html_17231710788e48999b762c7bef516151 = $(`<div id="html_17231710788e48999b762c7bef516151" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     金色三麥信義誠品店                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.2                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/CLBH7xuj7UQ//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/CLBH7xuj7UQ/ target="_blank" title="金色三麥信義誠品店 Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=金色三麥信義誠品店 target="_blank" title="Directions to 金色三麥信義誠品店">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to 金色三麥信義誠品店                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_dc5d16602f9b474ea8376bcfa560885c.setContent(html_17231710788e48999b762c7bef516151);
+        
+
+        marker_d46ab9891cd243228deeed8875d7242b.bindPopup(popup_dc5d16602f9b474ea8376bcfa560885c)
+        ;
+
+        
+    
+    
+            marker_d46ab9891cd243228deeed8875d7242b.bindTooltip(
+                `<div>
+                     金色三麥信義誠品店
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_e2de137995be4c09ac1827a3252f56c2 = L.marker(
+                [25.033976, 121.5645389],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_780f318902694d3a8c9c7542888fb1e1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_e2de137995be4c09ac1827a3252f56c2.setIcon(icon_780f318902694d3a8c9c7542888fb1e1);
+        
+    
+        var popup_68d0d6bc08ef44df97f47c9bacd0353c = L.popup({"maxWidth": 500});
+
+        
+            var html_4f3b96871dc9476480df9c763b2e5b4b = $(`<div id="html_4f3b96871dc9476480df9c763b2e5b4b" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     頂鮮台南擔仔麵台北101店DingXianTaipei                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.7                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/CVVBV8SsiQW//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/CVVBV8SsiQW/ target="_blank" title="頂鮮台南擔仔麵台北101店DingXianTaipei Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=頂鮮台南擔仔麵台北101店DingXianTaipei target="_blank" title="Directions to 頂鮮台南擔仔麵台北101店DingXianTaipei">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to 頂鮮台南擔仔麵台北101店DingXianTaipei                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_68d0d6bc08ef44df97f47c9bacd0353c.setContent(html_4f3b96871dc9476480df9c763b2e5b4b);
+        
+
+        marker_e2de137995be4c09ac1827a3252f56c2.bindPopup(popup_68d0d6bc08ef44df97f47c9bacd0353c)
+        ;
+
+        
+    
+    
+            marker_e2de137995be4c09ac1827a3252f56c2.bindTooltip(
+                `<div>
+                     頂鮮台南擔仔麵台北101店DingXianTaipei
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c2d330e316f74ff3b7d065b4612495c8 = L.marker(
+                [25.0355169, 121.5679057],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_ce00539261064d1b8e01433e1cfde59d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_c2d330e316f74ff3b7d065b4612495c8.setIcon(icon_ce00539261064d1b8e01433e1cfde59d);
+        
+    
+        var popup_a008687ead424803bbb55e23f43f7c11 = L.popup({"maxWidth": 500});
+
+        
+            var html_98184c654164447e959c99099964218d = $(`<div id="html_98184c654164447e959c99099964218d" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     醐同燒肉夜食五號店                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.1                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/CVaZ3luvoUL//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/CVaZ3luvoUL/ target="_blank" title="醐同燒肉夜食五號店 Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=醐同燒肉夜食五號店 target="_blank" title="Directions to 醐同燒肉夜食五號店">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to 醐同燒肉夜食五號店                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_a008687ead424803bbb55e23f43f7c11.setContent(html_98184c654164447e959c99099964218d);
+        
+
+        marker_c2d330e316f74ff3b7d065b4612495c8.bindPopup(popup_a008687ead424803bbb55e23f43f7c11)
+        ;
+
+        
+    
+    
+            marker_c2d330e316f74ff3b7d065b4612495c8.bindTooltip(
+                `<div>
+                     醐同燒肉夜食五號店
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d645aa9e33ec4673b27794674d5cb247 = L.marker(
+                [25.0397197, 121.5658739],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_0f7b388e17c34c68b1f08d58cb3e90b5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_d645aa9e33ec4673b27794674d5cb247.setIcon(icon_0f7b388e17c34c68b1f08d58cb3e90b5);
+        
+    
+        var popup_98cada8390524a9fa7bb6f3adac77004 = L.popup({"maxWidth": 500});
+
+        
+            var html_d22e8fcf673f4ac68adaee3169cf6808 = $(`<div id="html_d22e8fcf673f4ac68adaee3169cf6808" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     太陽蕃茄拉麵誠品信義店                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.2                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/BEQ_qtiH2ys//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/BEQ_qtiH2ys/ target="_blank" title="太陽蕃茄拉麵誠品信義店 Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=太陽蕃茄拉麵誠品信義店 target="_blank" title="Directions to 太陽蕃茄拉麵誠品信義店">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to 太陽蕃茄拉麵誠品信義店                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_98cada8390524a9fa7bb6f3adac77004.setContent(html_d22e8fcf673f4ac68adaee3169cf6808);
+        
+
+        marker_d645aa9e33ec4673b27794674d5cb247.bindPopup(popup_98cada8390524a9fa7bb6f3adac77004)
+        ;
+
+        
+    
+    
+            marker_d645aa9e33ec4673b27794674d5cb247.bindTooltip(
+                `<div>
+                     太陽蕃茄拉麵誠品信義店
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_492af49bd81647bcbe9fd0077ddd52e8 = L.marker(
+                [25.03531, 121.5660665],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_319ce83059b2422aa92f79561ff935a3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_492af49bd81647bcbe9fd0077ddd52e8.setIcon(icon_319ce83059b2422aa92f79561ff935a3);
+        
+    
+        var popup_2cd81db4b97a48ef895f1c6fd0abd8d9 = L.popup({"maxWidth": 500});
+
+        
+            var html_f46c21e7a0904a2c86e9f0c0f75fa300 = $(`<div id="html_f46c21e7a0904a2c86e9f0c0f75fa300" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     饗食天堂台北信義店                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.1                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/CKyjMQCMw4G//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/CKyjMQCMw4G/ target="_blank" title="饗食天堂台北信義店 Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=饗食天堂台北信義店 target="_blank" title="Directions to 饗食天堂台北信義店">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to 饗食天堂台北信義店                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_2cd81db4b97a48ef895f1c6fd0abd8d9.setContent(html_f46c21e7a0904a2c86e9f0c0f75fa300);
+        
+
+        marker_492af49bd81647bcbe9fd0077ddd52e8.bindPopup(popup_2cd81db4b97a48ef895f1c6fd0abd8d9)
+        ;
+
+        
+    
+    
+            marker_492af49bd81647bcbe9fd0077ddd52e8.bindTooltip(
+                `<div>
+                     饗食天堂台北信義店
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d028306d389f468b921f0055b958c2bb = L.marker(
+                [25.0365352, 121.5667157],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_faf527d02fb54d64b5ae2d1284c2e38e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_d028306d389f468b921f0055b958c2bb.setIcon(icon_faf527d02fb54d64b5ae2d1284c2e38e);
+        
+    
+        var popup_ab1a99365116447aa5820203e11fb019 = L.popup({"maxWidth": 500});
+
+        
+            var html_8c068d91d8514ce48f73e6347e851a42 = $(`<div id="html_8c068d91d8514ce48f73e6347e851a42" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     老乾杯信義店                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.2                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/BVRJzTAjmM9//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/BVRJzTAjmM9/ target="_blank" title="老乾杯信義店 Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=老乾杯信義店 target="_blank" title="Directions to 老乾杯信義店">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to 老乾杯信義店                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_ab1a99365116447aa5820203e11fb019.setContent(html_8c068d91d8514ce48f73e6347e851a42);
+        
+
+        marker_d028306d389f468b921f0055b958c2bb.bindPopup(popup_ab1a99365116447aa5820203e11fb019)
+        ;
+
+        
+    
+    
+            marker_d028306d389f468b921f0055b958c2bb.bindTooltip(
+                `<div>
+                     老乾杯信義店
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9b66bb5d08f54b968e67d3857eb7daff = L.marker(
+                [25.040598, 121.565735],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_4a611a6827d54b198b6370ab3d348c33 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_9b66bb5d08f54b968e67d3857eb7daff.setIcon(icon_4a611a6827d54b198b6370ab3d348c33);
+        
+    
+        var popup_d3dfab721cee4e51a9694f15e94c580e = L.popup({"maxWidth": 500});
+
+        
+            var html_522d54914d9c40b88f6f5ba5d57464e3 = $(`<div id="html_522d54914d9c40b88f6f5ba5d57464e3" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     紫艷中餐廳                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.3                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/ByAOd6oHkSl//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/ByAOd6oHkSl/ target="_blank" title="紫艷中餐廳 Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=紫艷中餐廳 target="_blank" title="Directions to 紫艷中餐廳">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to 紫艷中餐廳                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_d3dfab721cee4e51a9694f15e94c580e.setContent(html_522d54914d9c40b88f6f5ba5d57464e3);
+        
+
+        marker_9b66bb5d08f54b968e67d3857eb7daff.bindPopup(popup_d3dfab721cee4e51a9694f15e94c580e)
+        ;
+
+        
+    
+    
+            marker_9b66bb5d08f54b968e67d3857eb7daff.bindTooltip(
+                `<div>
+                     紫艷中餐廳
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6caa01468f54487ea883dd7a17eb7fa5 = L.marker(
+                [25.035666, 121.566074],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_b76f5a128f254279a24a58a7815697c5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_6caa01468f54487ea883dd7a17eb7fa5.setIcon(icon_b76f5a128f254279a24a58a7815697c5);
+        
+    
+        var popup_50f7309753884febb1b6acb6a045b55f = L.popup({"maxWidth": 500});
+
+        
+            var html_aae729992e5e49749c7d202aa68417c9 = $(`<div id="html_aae729992e5e49749c7d202aa68417c9" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     乾杯信義ATT店                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.1                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/CT4RMr4J55y//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/CT4RMr4J55y/ target="_blank" title="乾杯信義ATT店 Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=乾杯信義ATT店 target="_blank" title="Directions to 乾杯信義ATT店">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to 乾杯信義ATT店                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_50f7309753884febb1b6acb6a045b55f.setContent(html_aae729992e5e49749c7d202aa68417c9);
+        
+
+        marker_6caa01468f54487ea883dd7a17eb7fa5.bindPopup(popup_50f7309753884febb1b6acb6a045b55f)
+        ;
+
+        
+    
+    
+            marker_6caa01468f54487ea883dd7a17eb7fa5.bindTooltip(
+                `<div>
+                     乾杯信義ATT店
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_55c6078edff242f9907c90269e332514 = L.marker(
+                [25.0396219, 121.567641],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_907039ad14ef41c6aca819192bbd4fb2 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_55c6078edff242f9907c90269e332514.setIcon(icon_907039ad14ef41c6aca819192bbd4fb2);
+        
+    
+        var popup_0a03c44c8347431aae60aa296d03894f = L.popup({"maxWidth": 500});
+
+        
+            var html_6169bf4ba4434bbfb2e7ed043f4bae3b = $(`<div id="html_6169bf4ba4434bbfb2e7ed043f4bae3b" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     LATELIERdeJoëlRobuchon侯布雄法式餐廳                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.2                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/CXs9e2rvvWg//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/CXs9e2rvvWg/ target="_blank" title="LATELIERdeJoëlRobuchon侯布雄法式餐廳 Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=LATELIERdeJoëlRobuchon侯布雄法式餐廳 target="_blank" title="Directions to LATELIERdeJoëlRobuchon侯布雄法式餐廳">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to LATELIERdeJoëlRobuchon侯布雄法式餐廳                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_0a03c44c8347431aae60aa296d03894f.setContent(html_6169bf4ba4434bbfb2e7ed043f4bae3b);
+        
+
+        marker_55c6078edff242f9907c90269e332514.bindPopup(popup_0a03c44c8347431aae60aa296d03894f)
+        ;
+
+        
+    
+    
+            marker_55c6078edff242f9907c90269e332514.bindTooltip(
+                `<div>
+                     LATELIERdeJoëlRobuchon侯布雄法式餐廳
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_24dc620990874564865bcafcd74b9bf2 = L.marker(
+                [25.0396219, 121.567641],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_cd4d23c3010a42aab399e0d4417ab227 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_24dc620990874564865bcafcd74b9bf2.setIcon(icon_cd4d23c3010a42aab399e0d4417ab227);
+        
+    
+        var popup_fed3ca3446664dd6b0b29ee50fb0d7b7 = L.popup({"maxWidth": 500});
+
+        
+            var html_7c3b200c59584c7c8da05183b52908c0 = $(`<div id="html_7c3b200c59584c7c8da05183b52908c0" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     HALEAKALA美式漢堡                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.2                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/CMZeeX0lPpI//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/CMZeeX0lPpI/ target="_blank" title="HALEAKALA美式漢堡 Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=HALEAKALA美式漢堡 target="_blank" title="Directions to HALEAKALA美式漢堡">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to HALEAKALA美式漢堡                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_fed3ca3446664dd6b0b29ee50fb0d7b7.setContent(html_7c3b200c59584c7c8da05183b52908c0);
+        
+
+        marker_24dc620990874564865bcafcd74b9bf2.bindPopup(popup_fed3ca3446664dd6b0b29ee50fb0d7b7)
+        ;
+
+        
+    
+    
+            marker_24dc620990874564865bcafcd74b9bf2.bindTooltip(
+                `<div>
+                     HALEAKALA美式漢堡
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_e4606a20f6fb452382521d1ef509464d = L.marker(
+                [25.0396219, 121.567641],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_4fff3783087648babb71def82c722c6f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_e4606a20f6fb452382521d1ef509464d.setIcon(icon_4fff3783087648babb71def82c722c6f);
+        
+    
+        var popup_06bf91c87e144a0fb5b69b514c00f085 = L.popup({"maxWidth": 500});
+
+        
+            var html_1b8ccd7425cd46f5828ebcef1d47cd62 = $(`<div id="html_1b8ccd7425cd46f5828ebcef1d47cd62" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     合shabu                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.6                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/CWvEVD_vyWB//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/CWvEVD_vyWB/ target="_blank" title="合shabu Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=合shabu target="_blank" title="Directions to 合shabu">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to 合shabu                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_06bf91c87e144a0fb5b69b514c00f085.setContent(html_1b8ccd7425cd46f5828ebcef1d47cd62);
+        
+
+        marker_e4606a20f6fb452382521d1ef509464d.bindPopup(popup_06bf91c87e144a0fb5b69b514c00f085)
+        ;
+
+        
+    
+    
+            marker_e4606a20f6fb452382521d1ef509464d.bindTooltip(
+                `<div>
+                     合shabu
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_56111f0a7c704a04a7dcfdda28ea1fc2 = L.marker(
+                [25.0352187, 121.5672369],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_6792eddf622a46088cfce9871972d9a9 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_56111f0a7c704a04a7dcfdda28ea1fc2.setIcon(icon_6792eddf622a46088cfce9871972d9a9);
+        
+    
+        var popup_7b47ea5b5175420dbc6487429ce6eae9 = L.popup({"maxWidth": 500});
+
+        
+            var html_98a5de2920d04c13abdcfd4c217f6d30 = $(`<div id="html_98a5de2920d04c13abdcfd4c217f6d30" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     凱林鐵板燒信義威秀店                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.1                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/Bu8BtP4hDTG//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/Bu8BtP4hDTG/ target="_blank" title="凱林鐵板燒信義威秀店 Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=凱林鐵板燒信義威秀店 target="_blank" title="Directions to 凱林鐵板燒信義威秀店">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to 凱林鐵板燒信義威秀店                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_7b47ea5b5175420dbc6487429ce6eae9.setContent(html_98a5de2920d04c13abdcfd4c217f6d30);
+        
+
+        marker_56111f0a7c704a04a7dcfdda28ea1fc2.bindPopup(popup_7b47ea5b5175420dbc6487429ce6eae9)
+        ;
+
+        
+    
+    
+            marker_56111f0a7c704a04a7dcfdda28ea1fc2.bindTooltip(
+                `<div>
+                     凱林鐵板燒信義威秀店
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_e13d57e1399c4df1a86bf9eba1fd5f1d = L.marker(
+                [25.0407344, 121.5653917],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_c32afe7d091a4a1ebcf7f224b86df6c6 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_e13d57e1399c4df1a86bf9eba1fd5f1d.setIcon(icon_c32afe7d091a4a1ebcf7f224b86df6c6);
+        
+    
+        var popup_f5e14ea6130c4aa8a9c3bfb03f882ca2 = L.popup({"maxWidth": 500});
+
+        
+            var html_acdd430e80b84b66b60d32e30eae83e3 = $(`<div id="html_acdd430e80b84b66b60d32e30eae83e3" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     TGIFRIDAYS星期五美式餐廳信義餐廳                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.1                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/CW5tWKJBkvh//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/CW5tWKJBkvh/ target="_blank" title="TGIFRIDAYS星期五美式餐廳信義餐廳 Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=TGIFRIDAYS星期五美式餐廳信義餐廳 target="_blank" title="Directions to TGIFRIDAYS星期五美式餐廳信義餐廳">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to TGIFRIDAYS星期五美式餐廳信義餐廳                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_f5e14ea6130c4aa8a9c3bfb03f882ca2.setContent(html_acdd430e80b84b66b60d32e30eae83e3);
+        
+
+        marker_e13d57e1399c4df1a86bf9eba1fd5f1d.bindPopup(popup_f5e14ea6130c4aa8a9c3bfb03f882ca2)
+        ;
+
+        
+    
+    
+            marker_e13d57e1399c4df1a86bf9eba1fd5f1d.bindTooltip(
+                `<div>
+                     TGIFRIDAYS星期五美式餐廳信義餐廳
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_bbb9ba2e8d3241c488ac729187c96550 = L.marker(
+                [25.03346, 121.5644841],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_d6100bca1b994131a178f80a8fecc51a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_bbb9ba2e8d3241c488ac729187c96550.setIcon(icon_d6100bca1b994131a178f80a8fecc51a);
+        
+    
+        var popup_60ab080252a4420f98ddbb4fb49cc908 = L.popup({"maxWidth": 500});
+
+        
+            var html_5aa0a9c83b98422fb8790dd6c0b25094 = $(`<div id="html_5aa0a9c83b98422fb8790dd6c0b25094" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     鼎泰豐101店                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.5                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/CO5JpGqgRAA//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/CO5JpGqgRAA/ target="_blank" title="鼎泰豐101店 Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=鼎泰豐101店 target="_blank" title="Directions to 鼎泰豐101店">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to 鼎泰豐101店                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_60ab080252a4420f98ddbb4fb49cc908.setContent(html_5aa0a9c83b98422fb8790dd6c0b25094);
+        
+
+        marker_bbb9ba2e8d3241c488ac729187c96550.bindPopup(popup_60ab080252a4420f98ddbb4fb49cc908)
+        ;
+
+        
+    
+    
+            marker_bbb9ba2e8d3241c488ac729187c96550.bindTooltip(
+                `<div>
+                     鼎泰豐101店
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ab39f3ce4b114f6089a4185c63665d17 = L.marker(
+                [25.0406227, 121.5654586],
+                {}
+            ).addTo(marker_cluster_e3e9e3699f204c9e84103e13f4cf85ad);
+        
+    
+            var icon_8195ace4178a40a7820aa73780199ca4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-conifer", "iconColor": "white", "markerColor": "darkgreen", "prefix": "glyphicon"}
+            );
+            marker_ab39f3ce4b114f6089a4185c63665d17.setIcon(icon_8195ace4178a40a7820aa73780199ca4);
+        
+    
+        var popup_50bcb856deca409a8d9cde7da6aff233 = L.popup({"maxWidth": 500});
+
+        
+            var html_d91e69fe3f414d2189fec46a896f9424 = $(`<div id="html_d91e69fe3f414d2189fec46a896f9424" style="width: 100.0%; height: 100.0%;">                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 18px;">                                     大戶屋統一時代台北店                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                                 <b>                                 <span style="font-family: Didot, serif;font-size: 14px;">                                     Rating: 4.3                                     </b>                                 </span>                             </p>                             <p style="text-align: center;">                             <iframe src=https://www.instagram.com/p/Bk4GqiphUnL//embed width="220" height="270" frameborder="0" scrolling="auto" allowtransparency="true">                             </iframe>                             <p style="text-align: center;">                                 <a href=https://www.instagram.com/p/Bk4GqiphUnL/ target="_blank" title="大戶屋統一時代台北店 Website">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Instagram Post                                     </span>                                 </a>                             </p>                             <p style="text-align: center;">                                 <a href=https://www.google.com/maps/search/?api=1&query=大戶屋統一時代台北店 target="_blank" title="Directions to 大戶屋統一時代台北店">                                     <span style="font-family: Didot, serif; font-size: 14px;">                                         Directions to 大戶屋統一時代台北店                                     </span>                                 </a>                             </p>     </div>`)[0];
+            popup_50bcb856deca409a8d9cde7da6aff233.setContent(html_d91e69fe3f414d2189fec46a896f9424);
+        
+
+        marker_ab39f3ce4b114f6089a4185c63665d17.bindPopup(popup_50bcb856deca409a8d9cde7da6aff233)
+        ;
+
+        
+    
+    
+            marker_ab39f3ce4b114f6089a4185c63665d17.bindTooltip(
+                `<div>
+                     大戶屋統一時代台北店
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
