@@ -13,7 +13,9 @@
 	修改line 136 的 可自行設定檔案名稱
 
 2. Folium 地圖標記
-請執行 ./Folium map/Folium Code_Instagram_Popup.py 輸出初步的景點標記地圖xmas_map.html
+	step1 修改 line 56 地圖的預設資訊, 如座標. 地圖縮放程度...等等  
+	step2 修改 line 70 & line 88 欲讀取的csv檔
+	step3 執行 ./folium_map/folium code, 輸出景點標記地圖, 北中南依序為xmas1_map.html / xmas2_map.html / xmas3_map.html
 
 3. Google api 找熱區附近餐廳(需申請 google api key並開啟place api功能)  
 	step1 修改 11行 mykey輸入google api key  
