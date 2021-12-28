@@ -14,10 +14,10 @@
 2. Folium 地圖標記
 請執行 ./Folium map/Folium Code_Instagram_Popup.py 輸出初步的景點標記地圖xmas_map.html
 
-3. Google api 找熱區附近餐廳(需申請 google api key並開啟place api功能)
-	step1 修改 11行 mykey輸入google api key
-	step2 修改 input.txt 以行為格式單位分別輸入 地點名稱,latitude,longitude
-	step3 執行(到該檔案路徑) python Main.py
+3. Google api 找熱區附近餐廳(需申請 google api key並開啟place api功能)  
+	step1 修改 11行 mykey輸入google api key  
+	step2 修改 input.txt 以行為格式單位分別輸入 地點名稱,latitude,longitude  
+	step3 執行(到該檔案路徑) python Main.py  
 
 4. 爬蟲找美食貼文
 請執行 ./webscraping/Instagram_美食搜尋.py
